@@ -281,7 +281,7 @@ Dialogue: 0,0:11:50.39,0:11:52.50,*Default,NTP,0,0,0,,如果躲起来有用的�
 Dialogue: 0,0:11:52.77,0:11:55.63,*Default,NTP,0,0,0,,他肯定不会这么说的\N{\fs38}it's not like he'd be sharing that information with us, you know?
 Dialogue: 0,0:11:55.85,0:11:57.59,*Default,NTP,0,0,0,,我觉得行得通 \N{\fs38}I-I-I think it's a good idea, Rick.
 Dialogue: 0,0:11:57.66,0:11:59.48,*Default,NTP,0,0,0,,最坏的情况也就接着跑呗\N{\fs38}Worst-case scenario we're back to running.
-Dialogue: 0,0:11:59.76,0:12:01.59,*Default,NTP,0,0,0,,{\pos(626,458)\b1}梦中六小时以后{\b0}
+Dialogue: 0,0:11:59.76,0:12:01.59,*Default,NTP,0,0,0,,{\pos(636,458)\b1}梦中六小时以后{\b0}
 Dialogue: 0,0:12:05.44,0:12:09.06,*Default,NTP,0,0,0,,感觉我们可以就这样一直躲下去耶\N{\fs38}Wow, you know what? I mean, it looks like we could have just hid this whole time.
 Dialogue: 0,0:12:09.18,0:12:10.50,*Default,NTP,0,0,0,,Rick 你真是太机智了\N{\fs38}Boy, Rick, that was some good thinking.
 Dialogue: 0,0:12:10.60,0:12:11.40,*Default,NTP,0,0,0,,谢谢 Morty\N{\fs38}Thanks, Morty.
