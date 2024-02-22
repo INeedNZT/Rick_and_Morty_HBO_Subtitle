@@ -126,7 +126,7 @@ Dialogue: 0,0:04:05.21,0:04:09.20,*Default,NTP,0,0,0,,我接受你的请求 这�
 Dialogue: 0,0:04:09.21,0:04:11.62,*Default,NTP,0,0,0,,走吧 Rick 云端上住着巨人呢\N{\fs38}Come on, Rick. There's a giant in the clouds!
 Dialogue: 0,0:04:11.95,0:04:13.53,*Default,NTP,0,0,0,,呵呵 新手的运气\N{\fs38}Yeah. Beginner's luck.
 Dialogue: 0,0:04:14.44,0:04:18.94,*Default,NTP,0,0,0,,总而言之 与Summer Smith的友谊是可贵的\N{\fs38}In conclusion, a friendship with Summer Smith is the most valuable
-Dialogue: 0,0:04:15.90,0:04:16.92,11,,0,0,0,,{\frx352\fry16\frz355.5\pos(776,152.001)}{\fs36}{\fs50}和Summer友谊天长地久
+Dialogue: 0,0:04:15.53,0:04:17.07,11,,0,0,0,,{\frx352\fry16\frz355.5\pos(826,182.001)}{\fs36}{\fs50}和Summer友谊天长地久
 Dialogue: 0,0:04:18.94,0:04:21.88,*Default,NTP,0,0,0,,能让你们年轻的生命更加充实\N{\fs38}and enriching experience of your young lives.
 Dialogue: 0,0:04:22.60,0:04:24.78,*Default,NTP,0,0,0,,我是使命必达先生 看过来\N{\fs38}I'm Mr. Meeseeks! Look at me!
 Dialogue: 0,0:04:25.00,0:04:25.82,*Default,NTP,0,0,0,,谢谢\N{\fs38}Thank you!
@@ -259,7 +259,7 @@ Dialogue: 0,0:09:36.59,0:09:39.71,*Default,NTP,0,0,0,,我们还要去找一些�
 Dialogue: 0,0:09:39.71,0:09:41.82,*Default,NTP,0,0,0,,带回去分给那些村民呢\N{\fs38}and we're gonna bring it to those villagers.
 Dialogue: 0,0:09:41.82,0:09:44.55,*Default,NTP,0,0,0,,Morty 别逞强了 这明显是徒劳无功\N{\fs38}Morty, cut your losses. This is obviously a wash.
 Dialogue: 0,0:09:44.56,0:09:47.92,*Default,NTP,0,0,0,,是啊 我们一开始被捕的时候你也是这么说的\N{\fs38}Yeah, you were saying that back w-w-w-when we first got arrested,
-Dialogue: 0,0:09:48.07,0:09:50.91,法院,NTP,0,0,0,,{\fs45\pos(440.572,140)\frx6\fry18\frz348.9}巨人法院
+Dialogue: 0,0:09:48.07,0:09:50.91,法院,NTP,0,0,0,,{\fs52\pos(440.572,140)\frx4\fry12\frz348.9}巨人法院
 Dialogue: 0,0:09:47.92,0:09:51.12,*Default,NTP,0,0,0,,现在我们被释放了 还大步流星的走出法院呢\N{\fs38}but here we are, you know, walking down the Courthouse steps.
 Dialogue: 0,0:09:52.70,0:09:54.15,*Default,NTP,0,0,0,,天哪 Morty\N{\fs38}Oh, boy, Morty.
 Dialogue: 0,0:09:54.15,0:09:57.62,*Default,NTP,0,0,0,,通常从法院的楼梯走下去是冒险里比较简单的部分\N{\fs38}Usually, walking down the Courthouse steps is the easy part of the adventure.
@@ -292,7 +292,7 @@ Dialogue: 0,0:11:02.97,0:11:04.82,*Default,NTP,0,0,0,,呵呵 如果这是一个�
 Dialogue: 0,0:11:04.82,0:11:07.25,*Default,NTP,0,0,0,,这段就会被直接删掉了 白痴\N{\fs38}this part wouldn't be included, Stupid.
 Dialogue: 0,0:11:07.30,0:11:10.25,*Default,NTP,0,0,0,,Rick 没想到吧 快看下面\N{\fs38}Hey, Rick, what do you know? Look down there.
 Dialogue: 0,0:11:10.25,0:11:13.68,*Default,NTP,0,0,0,,像是个造在阶梯里的客栈\N{\fs38}Looks like some kind of tavern something built right into the side of the step.
-Dialogue: 0,0:11:10.15,0:11:12.08,7,,0,0,0,,{\fs40\frx4\fry8\pos(1250,500)\frz2.982}小渴栈
+Dialogue: 0,0:11:09.61,0:11:12.08,7,,0,0,0,,{\fs48\frx4\fry8\pos(1250,520)\frz2.982}小渴栈
 Dialogue: 0,0:11:15.35,0:11:18.07,*Default,NTP,0,0,0,,哇 Rick 这才像是一场冒险嘛\N{\fs38}Oh, wow, Rick. Now, this is more like it.
 Dialogue: 0,0:11:18.88,0:11:21.16,*Default,NTP,0,0,0,,快看 这里有小小的阶梯形人\N{\fs38}Look, there's little staircase-shaped people in here.
 Dialogue: 0,0:11:21.58,0:11:22.82,*Default,NTP,0,0,0,,各式各样稀奇古怪的角色呢\N{\fs38}A-all kinds of crazy characters.
