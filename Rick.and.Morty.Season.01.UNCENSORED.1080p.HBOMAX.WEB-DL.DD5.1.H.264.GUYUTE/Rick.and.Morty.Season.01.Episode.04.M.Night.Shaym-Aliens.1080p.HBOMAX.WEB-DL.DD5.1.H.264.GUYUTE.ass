@@ -221,7 +221,7 @@ Dialogue: 0,0:06:48.95,0:06:50.41,*Default,NTP,0,0,0,,苹果是食物\N{\fs38}Ap
 Dialogue: 0,0:06:50.89,0:06:53.02,*Default,NTP,0,0,0,,那么 我们何时需要食物呢\N{\fs38}And...when do we need food?
 Dialogue: 0,0:06:53.66,0:06:54.80,*Default,NTP,0,0,0,,想吃东西的时候\N{\fs38}When we're hungry.
 Dialogue: 0,0:06:56.39,0:06:59.25,*Default,NTP,0,0,0,,因此 我将新标语介绍给你们\N{\fs38}With that, I give you your new slogan!
-Dialogue: 0,0:06:57.98,0:06:59.60,*Default,NTP,0,0,0,,{\pos(814.4,609.6)\3c&H9D6156&\b1\4c&H26262D&}想要苹果吗?{\b0}
+Dialogue: 0,0:06:57.98,0:06:59.60,*Default,NTP,0,0,0,,{\pos(1220,915.6)\3c&H9D6156&\b1\4c&H26262D&}想要苹果吗?{\b0}
 Dialogue: 0,0:07:01.59,0:07:02.48,*Default,NTP,0,0,0,,说点什么啊\N{\fs38}Well, say something!
 Dialogue: 0,0:07:03.02,0:07:03.62,*Default,NTP,0,0,0,,你们喜欢吗\N{\fs38}Do you like it?
 Dialogue: 0,0:07:04.09,0:07:04.46,*Default,NTP,0,0,0,,是的\N{\fs38}Yes.
@@ -321,8 +321,8 @@ Dialogue: 0,0:10:34.07,0:10:35.43,*Default,NTP,0,0,0,,Z星人一直想证明他�
 Dialogue: 0,0:10:35.64,0:10:37.62,*Default,NTP,0,0,0,,每次我都比他们棋高一着\N{\fs38}Every time they do, I'm one step ahead of them.
 Dialogue: 0,0:10:37.87,0:10:38.38,*Default,NTP,0,0,0,,啊哈\N{\fs38}Aha!
 Dialogue: 0,0:10:38.68,0:10:39.22,*Default,NTP,0,0,0,,到了\N{\fs38}Here we go.
-Dialogue: 0,0:10:38.68,0:10:38.79,*Default,NTP,0,0,0,,{\b1\pos(942.4,72)}中央处理器→
-Dialogue: 0,0:10:38.75,0:10:38.79,*Default,NTP,0,0,0,,{\pos(803.2,467.2)\b1}←逃生舱{\b0}
+Dialogue: 0,0:10:38.68,0:10:38.79,*Default,NTP,0,0,0,,{\b1\pos(642.4,192)}中央处理器→
+Dialogue: 0,0:10:38.75,0:10:38.79,*Default,NTP,0,0,0,,{\pos(600,495)\b1}←逃生舱{\b0}
 Dialogue: 0,0:10:41.30,0:10:43.38,*Default,NTP,0,0,0,,能拿多少处理器就拿多少 Morty\N{\fs38}Grab as many processors as you Can carry, Morty.
 Dialogue: 0,0:10:43.75,0:10:44.46,*Default,NTP,0,0,0,,这群人没什么本事\N{\fs38}These guys aren't good at much,
 Dialogue: 0,0:10:44.63,0:10:46.16,*Default,NTP,0,0,0,,做芯片倒是有一套\N{\fs38}But they're reallygood at making these chips.
@@ -408,11 +408,11 @@ Dialogue: 0,0:13:47.11,0:13:48.57,*Default,NTP,0,0,0,,所以你永远也回不�
 Dialogue: 0,0:13:48.70,0:13:49.22,*Default,NTP,0,0,0,,给我抓起来\N{\fs38}Get them!
 Dialogue: 0,0:13:53.32,0:13:53.90,*Default,NTP,0,0,0,,快跑 Morty\N{\fs38}Run, Morty!
 Dialogue: 0,0:14:03.33,0:14:04.54,*Default,NTP,0,0,0,,噢老天啊\N{\fs38}oh, my god!
-Dialogue: 0,0:14:10.38,0:14:11.54,*Default,NTP,0,0,0,,{\fs36\b1\3c&HFF8100&\4c&H101410&\frx0\fry22\org(567.733,375.2)\pos(549.867,214.401)\frz17.83}关闭重力开关{\b0}
+Dialogue: 0,0:14:10.38,0:14:11.54,*Default,NTP,0,0,0,,{\fs48\b1\3c&HFF8100&\4c&H101410&\frx0\fry21\org(567.733,375.2)\pos(798,204.401)\frz17.83}关闭重力开关{\b0}
 Dialogue: 0,0:14:21.38,0:14:21.84,*Default,NTP,0,0,0,,啊\N{\fs38}Ow!
-Dialogue: 0,0:14:26.18,0:14:26.81,*Default,NTP,0,0,0,,{\org(628,325.334)\frx6\fry344\frz350.1\b1\fs40\3c&H765B1D&\4c&H121215&\pos(591.999,215.734)}开启重力开关{\b0}
-Dialogue: 0,0:14:31.65,0:14:34.53,*Default,NTP,0,0,0,,{\org(677.334,694.666)\frx6\fry0\pos(700,113.333)\b1}第七十五届
-Dialogue: 0,0:14:31.65,0:14:34.53,*Default,NTP,0,0,0,,{\org(677.334,694.666)\frx6\fry0\pos(697.333,177.333)\b1\3c&H906025&\2c&H994D21&}苹苹奖
+Dialogue: 0,0:14:26.18,0:14:26.81,*Default,NTP,0,0,0,,{\org(1028,325.334)\frx0\fry338\frz350.1\b1\fs48\3c&H765B1D&\4c&H121215&\pos(891,200)}开启重力开关{\b0}
+Dialogue: 0,0:14:31.65,0:14:34.53,*Default,NTP,0,0,0,,{\org(587.334,694.666)\frx6\fry0\pos(1100,113.333)\b1}第七十五届
+Dialogue: 0,0:14:31.65,0:14:34.53,*Default,NTP,0,0,0,,{\org(80.334,750.666)\frx6\fry0\pos(1197.333,177.333)\b1\3c&H906025&\2c&H994D21&}苹苹奖
 Dialogue: 0,0:14:31.73,0:14:32.81,*Default,NTP,0,0,0,,不得不说 今天早上\N{\fs38}I got to tell you, this morning,
 Dialogue: 0,0:14:32.90,0:14:34.26,*Default,NTP,0,0,0,,我都不知道还有这个奖\N{\fs38}I didn't even know this award existed.
 Dialogue: 0,0:14:34.91,0:14:35.93,*Default,NTP,0,0,0,,现在我居然拿着奖杯\N{\fs38}Now I'm holding one.
@@ -432,9 +432,9 @@ Dialogue: 0,0:15:11.29,0:15:12.27,*Default,NTP,0,0,0,,你在这儿干啥呢\N{\f
 Dialogue: 0,0:15:12.39,0:15:13.64,*Default,NTP,0,0,0,,你怎么穿的像个服务生似的\N{\fs38}W-why are you dressed like a Waiter?
 Dialogue: 0,0:15:13.85,0:15:15.30,*Default,NTP,0,0,0,,算了 没时间了 快跑\N{\fs38}Screw it. We don't have time. Come on.
 Dialogue: 0,0:15:15.64,0:15:16.35,*Default,NTP,0,0,0,,不要啊\N{\fs38}no!
-Dialogue: 0,0:15:19.28,0:15:20.11,*Default,NTP,0,0,0,,{\be1\pos(621.333,350.667)}{\pos(625.333,392)\3c&H24A775&\b0\fs48}{\fs45\t(\fs60)}逃生舱{\b1}
-Dialogue: 0,0:15:24.03,0:15:24.66,*Default,NTP,0,0,0,,{\be1}{\pos(576,298.667)\3c&H1C1D97&\3a&H00&}研发部
-Dialogue: 0,0:15:24.03,0:15:24.66,Default,NTP,0,0,0,,{\pos(689.334,553.334)\3c&H4141AD&}禁区
+Dialogue: 0,0:15:19.28,0:15:20.11,*Default,NTP,0,0,0,,{\be1\pos(921.333,720.667)}{\pos(921.333,720.667)\3c&H24A775&\b0\fs48}{\fs45\t(\fs60)}逃生舱{\b1}
+Dialogue: 0,0:15:24.03,0:15:24.66,*Default,NTP,0,0,0,,{\be1}{\pos(990,438.67)\3c&H1C1D97&\3a&H00&}研发部
+Dialogue: 0,0:15:24.03,0:15:24.66,Default,NTP,0,0,0,,{\pos(990,823.334)\3c&H4141AD&}禁区
 Dialogue: 0,0:15:24.94,0:15:26.00,*Default,NTP,0,0,0,,啊啊啊啊\N{\fs38}ohhhhh!
 Dialogue: 0,0:15:29.23,0:15:29.75,*Default,NTP,0,0,0,,啊\N{\fs38}aah!
 Dialogue: 0,0:16:00.05,0:16:00.81,*Default,NTP,0,0,0,,啊\N{\fs38}Oof!
