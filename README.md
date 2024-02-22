@@ -1,0 +1,2 @@
+# Rick_and_Morty_HBO_Subtitle
+瑞克和莫蒂HBO资源的字幕修正
