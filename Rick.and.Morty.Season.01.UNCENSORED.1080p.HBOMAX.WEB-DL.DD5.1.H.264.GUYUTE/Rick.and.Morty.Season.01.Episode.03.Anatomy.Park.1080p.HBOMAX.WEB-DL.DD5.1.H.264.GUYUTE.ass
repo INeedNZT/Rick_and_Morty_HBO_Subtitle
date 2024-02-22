@@ -103,20 +103,20 @@ Dialogue: 0,0:03:24.00,0:03:26.94,*Default,NTP,0,0,0,,按我注射的位置 你�
 Dialogue: 0,0:03:27.07,0:03:28.27,*Default,NTP,0,0,0,,啥入口\N{\fs38}Entrance to what?
 Dialogue: 0,0:03:28.40,0:03:29.47,*Default,NTP,0,0,0,,欢迎 Morty\N{\fs38}Welcome, Morty.
 Dialogue: 0,0:03:29.60,0:03:34.07,*Default,NTP,0,0,0,,欢迎来到人体公园\N{\fs38}Welcome... ... to Anatomy park!
-Dialogue: 0,0:03:32.44,0:03:34.86,1,NTP,0,0,0,,{\frz2.232\fs48\3c&H181B6D&\pos(648,254)}人体公园
-Dialogue: 0,0:03:34.19,0:03:37.87,*Default,NTP,0,0,0,,{\pos(642,716)}这是我和Bloom博士一起搞的一个小副业\N{\fs38}It's a little business venture I've been cooking up on the side with Dr. Bloom
+Dialogue: 0,0:03:32.44,0:03:34.86,1,NTP,0,0,0,,{\frz2.232\fs48\3c&H181B6D&\pos(948,354)}人体公园
+Dialogue: 0,0:03:34.19,0:03:37.87,*Default,NTP,0,0,0,,这是我和Bloom博士一起搞的一个小副业\N{\fs38}It's a little business venture I've been cooking up on the side with Dr. Bloom
 Dialogue: 0,0:03:38.00,0:03:39.31,*Default,NTP,0,0,0,,人体内的主题公园\N{\fs38}An amusement park inside a human body.
 Dialogue: 0,0:03:39.44,0:03:43.61,*Default,NTP,0,0,0,,搞科学很费钱的 这玩意多多少少能补贴一点\N{\fs38}Science isn't ch-cheap, morty. This should really help put a dent in the overhead.
 Dialogue: 0,0:03:43.73,0:03:45.74,*Default,NTP,0,0,0,,天啊 太不可思议了\N{\fs38}Oh, my god! This is insane!
 Dialogue: 0,0:03:46.16,0:03:47.12,*Default,NTP,0,0,0,,脾山\N{\fs38}Spleen mountain?
-Dialogue: 0,0:03:44.21,0:03:47.20,2,NTP,0,0,0,,{\fs48\move(1256,102,532,102,9,3000)}脾山
+Dialogue: 0,0:03:44.21,0:03:47.20,2,NTP,0,0,0,,{\fs48\move(1456,352,432,352,9,3000)}脾山
 Dialogue: 0,0:03:47.34,0:03:48.27,*Default,NTP,0,0,0,,膀胱瀑布\N{\fs38}Bladder falls?
-Dialogue: 0,0:03:47.20,0:03:48.45,3,NTP,0,0,0,,{\fs36\pos(824,250)}快来膀胱瀑布玩个痛快
-Dialogue: 0,0:03:47.20,0:03:48.45,4,NTP,0,0,0,,{\frz347.7\pos(1070,542)}就在下腹乐园
+Dialogue: 0,0:03:47.20,0:03:48.45,3,NTP,0,0,0,,{\fs36\pos(1224,365)}快来膀胱瀑布玩个痛快
+Dialogue: 0,0:03:47.20,0:03:48.45,4,NTP,0,0,0,,{\fs36\frz347.7\pos(1580,792)}就在下腹乐园
 Dialogue: 0,0:03:48.40,0:03:50.02,*Default,NTP,0,0,0,,胰之海盗\N{\fs38}Pirates of the pancreas?
-Dialogue: 0,0:03:48.45,0:03:51.08,5,NTP,0,0,0,,{\frz6.969\fs36\pos(960,384)}胰之海盗→\N就在腹腔乐园
+Dialogue: 0,0:03:48.45,0:03:51.08,5,NTP,0,0,0,,{\frz7.29\fs36\pos(1680,368)}胰之海盗→\N就在腹腔乐园
 Dialogue: 0,0:03:50.02,0:03:50.91,*Default,NTP,0,0,0,,你对最后一个有什么意见吗\N{\fs38}You got a problem with that last one, Morty?
-Dialogue: 0,0:03:51.04,0:03:51.91,*Default,NTP,0,0,0,,{\pos(672,718)}没有\N{\fs38}Huh? No, no.
+Dialogue: 0,0:03:51.04,0:03:51.91,*Default,NTP,0,0,0,,没有\N{\fs38}Huh? No, no.
 Dialogue: 0,0:03:52.04,0:03:54.01,*Default,NTP,0,0,0,,我只是看到什么就念出来而已\N{\fs38}I'm just reading'em out loud in the order that I'm seeing'em.
 Dialogue: 0,0:03:54.13,0:03:56.01,*Default,NTP,0,0,0,,好吧 我有点敏感\N{\fs38}Okay. All right. If I sounded a little defensive,
 Dialogue: 0,0:03:56.13,0:03:58.31,*Default,NTP,0,0,0,,因为胰之海盗是我的宝贝\N{\fs38}It's because pirates of the pancreas was my baby.
@@ -125,21 +125,21 @@ Dialogue: 0,0:04:00.84,0:04:02.31,*Default,NTP,0,0,0,,我现在还是有点护�
 Dialogue: 0,0:04:02.44,0:04:03.74,*Default,NTP,0,0,0,,总之快去找Bloom博士\N{\fs38}Let's just find dr. Bloom, all right?
 Dialogue: 0,0:04:03.87,0:04:05.67,*Default,NTP,0,0,0,,我在肝脏发现了求救信号\N{\fs38}I-I'm picking up a distress signal in the liver, Morty.
 Dialogue: 0,0:04:05.79,0:04:07.53,*Default,NTP,0,0,0,,去肝那儿\N{\fs38}Proceed to the liver.
-Dialogue: 0,0:04:04.51,0:04:07.81,6,NTP,0,0,0,,{\fs48\pos(576,556)}肺叶弹射
-Dialogue: 0,0:04:04.51,0:04:07.81,9,,0,0,0,,{\pos(1102,536)}结肠漂流
-Dialogue: 0,0:04:04.51,0:04:07.81,6,,0,0,0,,{\fs48\pos(834,526)}{\c&HB5FFE5&}鬼肝
-Dialogue: 0,0:04:04.51,0:04:07.81,7,,0,0,0,,{\frz22.52\pos(774,242)}脑皮层木马
-Dialogue: 0,0:04:04.51,0:04:07.81,8,,0,0,0,,{\c&HACF2EE&\fs48\pos(1072,292)\b1\4c&H4B3884&\frz352}膀胱瀑布{\b0}
-Dialogue: 0,0:04:07.81,0:04:11.14,4,NTP,0,0,0,,{\frz8.326\pos(664,280)}前往 下腹乐园
+Dialogue: 0,0:04:04.51,0:04:07.81,6,NTP,0,0,0,,{\fs48\pos(875,866)}肺叶弹射
+Dialogue: 0,0:04:04.51,0:04:07.81,9,,0,0,0,,{\fs48\pos(1620,1030)}结肠漂流
+Dialogue: 0,0:04:04.51,0:04:07.81,6,,0,0,0,,{\fs48\pos(1234,750)}{\c&HB5FFE5&}鬼肝
+Dialogue: 0,0:04:04.51,0:04:07.81,7,,0,0,0,,{\fs48\frz22.52\pos(1154,330)}脑皮层木马
+Dialogue: 0,0:04:04.51,0:04:07.81,8,,0,0,0,,{\c&HACF2EE&\fs48\pos(1650,410)\b1\4c&H4B3884&\frz352}膀胱瀑布{\b0}
+Dialogue: 0,0:04:07.81,0:04:11.14,4,NTP,0,0,0,,{\fs48\frz9.326\pos(980,430)}前往 下腹乐园
 Dialogue: 0,0:04:12.04,0:04:14.77,*Default,NTP,0,0,0,,前方到站 肝脏\N{\fs38}Arriving at... ... liver.
 Dialogue: 0,0:04:15.86,0:04:17.36,*Default,NTP,0,0,0,,小心站台间隙\N{\fs38}Mind the gap.
-Dialogue: 0,0:04:19.71,0:04:23.18,10,NTP,0,0,0,,{\frz6.8\fs36\move(142,554,1086,484,100,3200)\fad(100,500)}灰尘见谅
+Dialogue: 0,0:04:19.71,0:04:23.18,10,NTP,0,0,0,,{\frz6.8\fs36\move(60,950,1490,880,100,3500)\fad(100,300)}灰尘见谅
 Dialogue: 0,0:04:19.84,0:04:21.41,*Default,NTP,0,0,0,,这儿好恐怖啊 Rick\N{\fs38}It's really scary in here, Rick.
 Dialogue: 0,0:04:21.54,0:04:22.97,*Default,NTP,0,0,0,,肝的情况不太好\N{\fs38}The liver's under maintenance.
 Dialogue: 0,0:04:23.10,0:04:24.31,*Default,NTP,0,0,0,,Reuben这几年过得很苦\N{\fs38}Reuben's seen some rough years, Morty.
 Dialogue: 0,0:04:24.43,0:04:25.04,*Default,NTP,0,0,0,,不要说三道四\N{\fs38}Don't judge.
 Dialogue: 0,0:04:25.16,0:04:29.64,*Default,NTP,0,0,0,,日子过得好的人是不会同意在自己体内修一座主题公园的 \N{\fs38}You don't agree to have a theme park built inside you if your life's going great.
-Dialogue: 0,0:04:26.37,0:04:28.20,11,NTP,0,0,0,,{\fs62\pos(628,378)}鬼肝
+Dialogue: 0,0:04:26.37,0:04:28.20,11,NTP,0,0,0,,{\fs52\pos(928,365)}鬼肝
 Dialogue: 0,0:04:31.36,0:04:32.34,*Default,NTP,0,0,0,,Rick 有妖怪啊\N{\fs38}Rick! It's a monster!
 Dialogue: 0,0:04:32.47,0:04:33.44,*Default,NTP,0,0,0,,不 Morty\N{\fs38}No, no, no. Morty.
 Dialogue: 0,0:04:33.57,0:04:36.64,*Default,NTP,0,0,0,,这儿唯一的妖怪只有酗酗酗酒\N{\fs38}The only monster here is alco...... holism.
@@ -192,7 +192,7 @@ Dialogue: 0,0:06:37.13,0:06:39.57,*Default,NTP,0,0,0,,Jerry 这火腿是你的�
 Dialogue: 0,0:06:39.57,0:06:40.85,*Default,NTP,0,0,0,,真是美味至极\N{\fs38}It's incredible.
 Dialogue: 0,0:06:42.74,0:06:45.65,*Default,NTP,0,0,0,,真有人情味儿啊 节日快乐 爸\N{\fs38}Happy human holiday, dad.
 Dialogue: 0,0:06:49.07,0:06:52.03,*Default,NTP,0,0,0,,肝炎病毒不会跟进呼吸系统里来的\N{\fs38}Hepatitis won't follow us into the respiratory system.
-Dialogue: 0,0:06:51.89,0:06:53.68,12,NTP,0,0,0,,{\pos(882,138)}肺泡林
+Dialogue: 0,0:06:51.89,0:06:53.68,12,NTP,0,0,0,,{\fs54\pos(1322,448)}肺泡林
 Dialogue: 0,0:06:54.18,0:06:55.15,*Default,NTP,0,0,0,,奇怪\N{\fs38}That's strange.
 Dialogue: 0,0:06:55.28,0:06:56.82,*Default,NTP,0,0,0,,含气量下降了百分之二十\N{\fs38}Airflow is down 20%.
 Dialogue: 0,0:06:56.94,0:06:59.42,*Default,NTP,0,0,0,,那大脑肯定供氧不足\N{\fs38}So, the brain isn't getting enough oxygen.
