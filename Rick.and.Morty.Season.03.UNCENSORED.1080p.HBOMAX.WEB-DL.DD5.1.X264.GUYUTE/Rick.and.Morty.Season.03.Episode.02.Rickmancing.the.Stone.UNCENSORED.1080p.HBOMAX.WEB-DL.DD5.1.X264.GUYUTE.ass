@@ -27,7 +27,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.79,0:00:04.19,*Default,NTP,0,0,0,,Summer 下次我们躲在克罗基恩回音巢时\N{\fs38}Summer, next time we’re hiding in a Colorkian echo nest,
 Dialogue: 0,0:00:04.23,0:00:06.36,*Default,NTP,0,0,0,,你能行行好把手机铃声关掉吗\N{\fs38}can you do me a favor and turn your ringer off?
 Dialogue: 0,0:00:06.50,0:00:08.21,*Default,NTP,0,0,0,,这首歌有名字叫"活在当下" Morty\N{\fs38}It’s called “carpe diem,” Morty.
-Dialogue: 0,0:00:08.33,0:00:09.45,*Default,NTP,0,0,0,,- 自己去搜搜吧 - 你才去搜搜呢\N{\fs38}-Look it up. -You look it up!
+Dialogue: 0,0:00:08.33,0:00:09.45,*Default,NTP,0,0,0,,自己去搜搜吧 - 你才去搜搜呢\N{\fs38}Look it up. -You look it up!
 Dialogue: 0,0:00:09.59,0:00:11.12,*Default,NTP,0,0,0,,你 你自己都 你自己都不懂这个词什么意思\N{\fs38}Y-Y-You don’t even -- You don’t even know what it means!
 Dialogue: 0,0:00:11.12,0:00:12.54,*Default,NTP,0,0,0,,因为废物才会去查这查那\N{\fs38}That’s because losers look stuff up
 Dialogue: 0,0:00:12.67,0:00:15.33,*Default,NTP,0,0,0,,而我们其他人都活在当下\N{\fs38}while the rest of us are carpin’ all them diems.
@@ -81,7 +81,7 @@ Dialogue: 0,0:02:48.45,0:02:49.53,*Default,NTP,0,0,0,,这玩意儿可猛了 Mort
 Dialogue: 0,0:02:49.66,0:02:52.87,*Default,NTP,0,0,0,,同位素465在这东西面前就跟同位素317一样\N{\fs38}it makes IsoTope 465 look like IsoTope 317.
 Dialogue: 0,0:02:53.00,0:02:53.60,*Default,NTP,0,0,0,,嗯哼 很好\N{\fs38}Uh-huh, yeah.
 Dialogue: 0,0:02:53.68,0:02:56.37,*Default,NTP,0,0,0,,那它有猛到让那些家伙杀不掉我们吗\N{\fs38}Is it powerful enoughto keep those guys from murdering us?
-Dialogue: 0,0:02:57.55,0:02:59.00,*Default,NTP,0,0,0,,- Summer - 等会儿\N{\fs38}-Summer! -Hold on.
+Dialogue: 0,0:02:57.55,0:02:59.00,*Default,NTP,0,0,0,,Summer - 等会儿\N{\fs38}Summer! -Hold on.
 Dialogue: 0,0:02:59.13,0:03:00.12,*Default,NTP,0,0,0,,我要试点新花样\N{\fs38}I want to try something.
 Dialogue: 0,0:03:01.59,0:03:03.55,*Default,NTP,0,0,0,,Rick 咱俩能别撇下我姐姐就跑吗\N{\fs38}Rick, can we not leave without my sister?
 Dialogue: 0,0:03:03.68,0:03:06.67,*Default,NTP,0,0,0,,你有无穷多个姐姐 Morty\N{\fs38}Ugh. You have infinite sisters, Morty.
@@ -104,7 +104,7 @@ Dialogue: 0,0:03:44.84,0:03:48.33,*Default,NTP,0,0,0,,你们除掉了我们中�
 Dialogue: 0,0:03:48.47,0:03:52.43,*Default,NTP,0,0,0,,我们应该合作 一起尽情享受追猎弱者的快乐\N{\fs38}We can combine our strength and feast on the weak together.
 Dialogue: 0,0:03:52.56,0:03:54.01,*Default,NTP,0,0,0,,你你你到底在说些什么\N{\fs38}Wh-Wh-What in the hell are you saying?
 Dialogue: 0,0:03:54.14,0:03:56.38,*Default,NTP,0,0,0,,他想让我们加入 这样他们就不用拼命追杀我们了\N{\fs38}They don’t have to keep trying to kill us if we join them.
-Dialogue: 0,0:03:56.52,0:03:59.10,*Default,NTP,0,0,0,,- 一群孬逼 - 你最近到底怎么了\N{\fs38}-They’re basically pussies. -What is your deal lately?
+Dialogue: 0,0:03:56.52,0:03:59.10,*Default,NTP,0,0,0,,一群孬逼 - 你最近到底怎么了\N{\fs38}They’re basically pussies. -What is your deal lately?
 Dialogue: 0,0:03:59.23,0:04:00.44,*Default,NTP,0,0,0,,行吧 咱爽爽\N{\fs38}All right, let’s get sloppy.
 Dialogue: 0,0:04:00.57,0:04:01.48,*Default,NTP,0,0,0,,哦 哇喔\N{\fs38}Oh, whoa.
 Dialogue: 0,0:04:01.61,0:04:02.82,*Default,NTP,0,0,0,,呃 呃 那个 呃\N{\fs38}Uh, uh, what’s, uh --
@@ -116,11 +116,11 @@ Dialogue: 0,0:04:09.99,0:04:11.65,*Default,NTP,0,0,0,,为了提醒我们这世�
 Dialogue: 0,0:04:13.43,0:04:14.85,*Default,NTP,0,0,0,,孩子们 峰回路转呐\N{\fs38}Kids, weird pitch.
 Dialogue: 0,0:04:15.10,0:04:16.04,*Default,NTP,0,0,0,,让我们的新生活从这里开始吧\N{\fs38}Let’s have this be our new life.
 Dialogue: 0,0:04:16.17,0:04:19.03,*Default,NTP,0,0,0,,让我们在后末世世界捡垃圾\N{\fs38}Let’s be post-apocalyptic scavengers!
-Dialogue: 0,0:04:19.17,0:04:20.00,*Default,NTP,0,0,0,,- 好啊 - 什么\N{\fs38}-Okay. -What?
+Dialogue: 0,0:04:19.17,0:04:20.00,*Default,NTP,0,0,0,,好啊 - 什么\N{\fs38}Okay. -What?
 Dialogue: 0,0:04:24.51,0:04:26.46,*Default,NTP,0,0,0,,外公 有些死亡追猎者准备去\N{\fs38}Grandpa, some of the Death Stalkers
 Dialogue: 0,0:04:26.59,0:04:27.83,*Default,NTP,0,0,0,,曾经叫西雅图的地方\N{\fs38}are going to what used to be Seattle
 Dialogue: 0,0:04:27.97,0:04:29.05,*Default,NTP,0,0,0,,猎杀曾经叫人类的东西\N{\fs38}to hunt what used to be people.
-Dialogue: 0,0:04:29.18,0:04:30.92,*Default,NTP,0,0,0,,- 我也要去 - 挺好的 记得多喝水\N{\fs38}-I’m going. -Sounds good. Stay hydrated.
+Dialogue: 0,0:04:29.18,0:04:30.92,*Default,NTP,0,0,0,,我也要去 - 挺好的 记得多喝水\N{\fs38}I’m going. -Sounds good. Stay hydrated.
 Dialogue: 0,0:04:31.06,0:04:32.92,*Default,NTP,0,0,0,,听着 Rick Summer最近都跟疯了似的\N{\fs38}Listen, Rick, Summer’s been acting pretty crazy lately.
 Dialogue: 0,0:04:33.06,0:04:35.51,*Default,NTP,0,0,0,,离婚的事对她影响蛮大的\N{\fs38}You know, I mean, I-I think the divorce is affecting her.
 Dialogue: 0,0:04:35.64,0:04:36.76,*Default,NTP,0,0,0,,而且 我觉得她现在\N{\fs38}And, you know, I don’t think this is
@@ -171,7 +171,7 @@ Dialogue: 0,0:06:00.81,0:06:02.35,*Default,NTP,0,0,0,,Morty 不怕 有我帮你�
 Dialogue: 0,0:06:02.48,0:06:03.31,*Default,NTP,0,0,0,,来这儿\N{\fs38}Come here.
 Dialogue: 0,0:06:04.77,0:06:07.39,*Default,NTP,0,0,0,,这个装置能提取和再分配肌肉记忆\N{\fs38}This device extracts and redistributes muscle memory.
 Dialogue: 0,0:06:07.53,0:06:10.19,*Default,NTP,0,0,0,,我给注射你十年荒野格斗的经验\N{\fs38}I’m giving your body a 10-year course in wasteland combat
-Dialogue: 0,0:06:10.32,0:06:12.36,*Default,NTP,0,0,0,,- 一次一只胳膊腿儿 - 嗷\N{\fs38}-one limb at a time. -Ow!
+Dialogue: 0,0:06:10.32,0:06:12.36,*Default,NTP,0,0,0,,一次一只胳膊腿儿 - 嗷\N{\fs38}one limb at a time. -Ow!
 Dialogue: 0,0:06:12.49,0:06:13.78,*Default,NTP,0,0,0,,这些个胳膊腿儿都不是同一个人的\N{\fs38}I’m working with a mixed bag here,
 Dialogue: 0,0:06:13.91,0:06:16.19,*Default,NTP,0,0,0,,所以你可能不是很协调 Morty 啊\N{\fs38}so you may not have perfect coordination, Morty -- Ugh!
 Dialogue: 0,0:06:16.33,0:06:17.91,*Default,NTP,0,0,0,,嘿 - 不是我干的\N{\fs38}Hey! -I-I didn’t do that!
@@ -222,7 +222,7 @@ Dialogue: 0,0:08:04.77,0:08:07.23,*Default,NTP,0,0,0,,好了 干得好 冠军\N{
 Dialogue: 0,0:08:07.35,0:08:10.22,*Default,NTP,0,0,0,,嗯 我能和你们俩孩子在那儿说几句吗\N{\fs38}Urn, can I talk to you kids for a second over yonder?
 Dialogue: 0,0:08:10.36,0:08:12.77,*Default,NTP,0,0,0,,Rick 我 我觉得我在这儿挺有突破的\N{\fs38}Rick, I-I-I think l’rn breaking through to something here.
 Dialogue: 0,0:08:12.90,0:08:14.19,*Default,NTP,0,0,0,,我 我们能不能先别离开\N{\fs38}C-Can we not leave just yet?
-Dialogue: 0,0:08:14.32,0:08:15.56,*Default,NTP,0,0,0,,- 离开 - 我不离开\N{\fs38}-Leave? -I’m not leaving.
+Dialogue: 0,0:08:14.32,0:08:15.56,*Default,NTP,0,0,0,,离开 - 我不离开\N{\fs38}Leave? -I’m not leaving.
 Dialogue: 0,0:08:15.70,0:08:17.15,*Default,NTP,0,0,0,,这里没有离开一说\N{\fs38}There is no “leave.”
 Dialogue: 0,0:08:17.28,0:08:19.74,*Default,NTP,0,0,0,,要么团结一致 要么针锋相对\N{\fs38}We are united, or we are enemies.
 Dialogue: 0,0:08:19.87,0:08:21.98,*Default,NTP,0,0,0,,哦 大块头 不 没人要离开\N{\fs38}Oh, big guy, no. Nobody’s leaving.
@@ -234,7 +234,7 @@ Dialogue: 0,0:08:27.92,0:08:29.41,*Default,NTP,0,0,0,,我估计这儿的"一辈�
 Dialogue: 0,0:08:29.54,0:08:31.33,*Default,NTP,0,0,0,,我想跟我的外孙们独处一小会\N{\fs38}I just need a quick aside with my grandkids,
 Dialogue: 0,0:08:31.46,0:08:32.95,*Default,NTP,0,0,0,,距离无关人士四十码远就行\N{\fs38}about 40 yards from anyone else.
 Dialogue: 0,0:08:33.09,0:08:34.75,*Default,NTP,0,0,0,,绿石头不见了\N{\fs38}Hey, the Green Rock is gone!
-Dialogue: 0,0:08:34.88,0:08:36.29,*Default,NTP,0,0,0,,- 哦不 - 我懂\N{\fs38}-Oh, no! -Uh, I know.
+Dialogue: 0,0:08:34.88,0:08:36.29,*Default,NTP,0,0,0,,哦不 - 我懂\N{\fs38}Oh, no! -Uh, I know.
 Dialogue: 0,0:08:36.43,0:08:38.76,*Default,NTP,0,0,0,,我建议我们三人一组分头去找\N{\fs38}Why don’t we all split up and look for it in groups of three?
 Dialogue: 0,0:08:38.89,0:08:40.13,*Default,NTP,0,0,0,,孩儿们\N{\fs38}Kids?
 Dialogue: 0,0:08:42.35,0:08:43.46,*Default,NTP,0,0,0,,噢\N{\fs38}Ohh.
@@ -260,13 +260,13 @@ Dialogue: 0,0:09:31.24,0:09:31.87,*Default,NTP,0,0,0,,去你的吧\N{\fs38}Fuck 
 Dialogue: 0,0:09:34.19,0:09:36.72,*Default,NTP,0,0,0,,我的身躯是铬合金\N{\fs38}My body is chrome!
 Dialogue: 0,0:09:36.86,0:09:39.10,*Default,NTP,0,0,0,,我的血是汽油\N{\fs38}My blood is gasoline!
 Dialogue: 0,0:09:39.86,0:09:41.82,*Default,NTP,0,0,0,,错 就是一般血\N{\fs38}Nope. Regular blood.
-Dialogue: 0,0:09:41.94,0:09:43.28,*Default,NTP,0,0,0,,- 爸 - 嗨 乖女儿\N{\fs38}-Dad? -Hi, sweetie.
-Dialogue: 0,0:09:43.40,0:09:45.32,*Default,NTP,0,0,0,,- 孩子们呢 - 他们没跟你一块吗\N{\fs38}-Where are the kids? -Oh, th-they aren’t with you?
+Dialogue: 0,0:09:41.94,0:09:43.28,*Default,NTP,0,0,0,,爸 - 嗨 乖女儿\N{\fs38}Dad? -Hi, sweetie.
+Dialogue: 0,0:09:43.40,0:09:45.32,*Default,NTP,0,0,0,,孩子们呢 - 他们没跟你一块吗\N{\fs38}Where are the kids? -Oh, th-they aren’t with you?
 Dialogue: 0,0:09:45.45,0:09:46.81,*Default,NTP,0,0,0,,我以为他们跟你在一块呢\N{\fs38}I thought they were with you.
 Dialogue: 0,0:09:46.95,0:09:48.66,*Default,NTP,0,0,0,,哦你知道吗 我刚想起来\N{\fs38}Oh, y-you know what? Uh, I just remembered.
 Dialogue: 0,0:09:48.79,0:09:49.70,*Default,NTP,0,0,0,,他们出去办事了\N{\fs38}They’re out doing something
 Dialogue: 0,0:09:49.83,0:09:51.19,*Default,NTP,0,0,0,,非常正常 非常适宜儿童\N{\fs38}completely ordinary and kid-related.
-Dialogue: 0,0:09:51.33,0:09:54.16,*Default,NTP,0,0,0,,- 别慌 - 我不慌 只是\N{\fs38}-Don’t panic. -Not panicked at all. Just --
+Dialogue: 0,0:09:51.33,0:09:54.16,*Default,NTP,0,0,0,,别慌 - 我不慌 只是\N{\fs38}Don’t panic. -Not panicked at all. Just --
 Dialogue: 0,0:09:54.29,0:09:56.33,*Default,NTP,0,0,0,,天哪 离婚这事儿把孩子们怎么了\N{\fs38}Oh, God, what’s the divorce doing to the kids?
 Dialogue: 0,0:09:56.46,0:09:58.32,*Default,NTP,0,0,0,,把我怎么了 我是不是犯了个错误\N{\fs38}What’s it doing to me? Did I make a mistake?
 Dialogue: 0,0:09:58.46,0:09:59.67,*Default,NTP,0,0,0,,绝对没错\N{\fs38}Not a mistake, no!
@@ -315,13 +315,13 @@ Dialogue: 0,0:11:49.78,0:11:50.77,*Default,NTP,0,0,0,,喔\N{\fs38}Oh.
 Dialogue: 0,0:11:50.91,0:11:51.52,*Default,NTP,0,0,0,,怎么了\N{\fs38}Hmm?
 Dialogue: 0,0:11:51.66,0:11:53.32,*Default,NTP,0,0,0,,我只是\N{\fs38}I just...
 Dialogue: 0,0:11:53.45,0:11:55.53,*Default,NTP,0,0,0,,我没想到你留了个八字胡\N{\fs38}I didn’t expect you to have a mustache.
-Dialogue: 0,0:11:55.66,0:11:57.53,*Default,NTP,0,0,0,,- 你讨厌它 - 不 我喜欢\N{\fs38}-You hate it. -No. I like it.
+Dialogue: 0,0:11:55.66,0:11:57.53,*Default,NTP,0,0,0,,你讨厌它 - 不 我喜欢\N{\fs38}You hate it. -No. I like it.
 Dialogue: 0,0:11:57.66,0:11:59.28,*Default,NTP,0,0,0,,该怎么解释呢\N{\fs38}I guess -- How do I explain this?
 Dialogue: 0,0:11:59.42,0:12:03.88,*Default,NTP,0,0,0,,一个铁桶 在某种程度上来说 就是一种"胡子"\N{\fs38}A metal bucket is, on a certain level, a kind of “mustache,”
 Dialogue: 0,0:12:04.00,0:12:06.54,*Default,NTP,0,0,0,,因为这也是种特殊的面部配饰\N{\fs38}in that it’s a specific facial accessory.
 Dialogue: 0,0:12:06.67,0:12:07.71,*Default,NTP,0,0,0,,所以 这就有点像是\N{\fs38}So, it’s kind of like --
 Dialogue: 0,0:12:07.84,0:12:09.58,*Default,NTP,0,0,0,,你们这儿有"带着帽子打伞"这种说法吗\N{\fs38}Do you guys have the phrase “hat on a hat”?
-Dialogue: 0,0:12:09.72,0:12:11.55,*Default,NTP,0,0,0,,- 我可以刮掉它 - 不 我喜欢它\N{\fs38}-l can shave it. -No. I like it.
+Dialogue: 0,0:12:09.72,0:12:11.55,*Default,NTP,0,0,0,,我可以刮掉它 - 不 我喜欢它\N{\fs38}I can shave it. -No. I like it.
 Dialogue: 0,0:12:11.68,0:12:13.63,*Default,NTP,0,0,0,,而且显然我喜不喜欢并不重要\N{\fs38}And obviously what I like shouldn’t matter.
 Dialogue: 0,0:12:13.76,0:12:14.42,*Default,NTP,0,0,0,,你喜欢就好了\N{\fs38}It’s you.
 Dialogue: 0,0:12:14.56,0:12:16.26,*Default,NTP,0,0,0,,是啊是啊 我知道 都不重要\N{\fs38}Yeah, yeah, I know, a-and nothing does matter.
@@ -341,12 +341,12 @@ Dialogue: 0,0:12:37.33,0:12:39.57,*Default,NTP,0,0,0,,我讨厌那家伙 干嘛�
 Dialogue: 0,0:12:39.71,0:12:41.07,*Default,NTP,0,0,0,,看不出来有多假吗\N{\fs38}And how can you not see how fake that is?
 Dialogue: 0,0:12:41.21,0:12:42.41,*Default,NTP,0,0,0,,—直以来 我就和他一样\N{\fs38}And the whole time, I’m the same thing.
 Dialogue: 0,0:12:42.54,0:12:44.16,*Default,NTP,0,0,0,,我就是这么假 而且我改不掉\N{\fs38}I’m just a fake mess, and there’s no escaping it
-Dialogue: 0,0:12:44.29,0:12:45.91,*Default,NTP,0,0,0,,- 因为 - 嗯哼\N{\fs38}-because -- -Mmm.
+Dialogue: 0,0:12:44.29,0:12:45.91,*Default,NTP,0,0,0,,因为 - 嗯哼\N{\fs38}because -Mmm.
 Dialogue: 0,0:12:50.63,0:12:54.13,*Default,NTP,0,0,0,,嘿 我正要去买咖啡 没事了\N{\fs38}Hey, I’m doing a coffee run -- Never mind.
 Dialogue: 0,0:12:57.64,0:12:58.68,*Default,NTP,0,0,0,,我是Summer\N{\fs38}l am Summer.
 Dialogue: 0,0:12:58.81,0:12:59.89,*Default,NTP,0,0,0,,Summer 说说你什么情况\N{\fs38}Summer, state your deal.
 Dialogue: 0,0:13:00.02,0:13:02.51,*Default,NTP,0,0,0,,我的情况就是 我感觉超棒\N{\fs38}My deal is that I am, like, totally fine.
-Dialogue: 0,0:13:02.65,0:13:05.64,*Default,NTP,0,0,0,,- Morty 你呢 - 父母离婚这事儿我完全理解啦\N{\fs38}- Morty? - Aw, geez, I’m so down with my parents’ divorce, dawg.
+Dialogue: 0,0:13:02.65,0:13:05.64,*Default,NTP,0,0,0,,Morty 你呢 - 父母离婚这事儿我完全理解啦\N{\fs38}Morty? - Aw, geez, I’m so down with my parents’ divorce, dawg.
 Dialogue: 0,0:13:05.77,0:13:08.23,*Default,NTP,0,0,0,,完全不在乎 而且是心态很好的那种不在乎\N{\fs38}Like, don’t even trip, like, in a healthy way.
 Dialogue: 0,0:13:08.36,0:13:09.94,*Default,NTP,0,0,0,,很好 该吃晚饭了\N{\fs38}All right. It’s dinnertime.
 Dialogue: 0,0:13:10.07,0:13:11.35,*Default,NTP,0,0,0,,谢谢大家\N{\fs38}Thanks, everybody,
@@ -357,7 +357,7 @@ Dialogue: 0,0:13:18.41,0:13:20.07,*Default,NTP,0,0,0,,而在于交流感情\N{\f
 Dialogue: 0,0:13:20.20,0:13:21.94,*Default,NTP,0,0,0,,好吧 怪孩子\N{\fs38}Uh, okay, weirdo.
 Dialogue: 0,0:13:22.08,0:13:24.16,*Default,NTP,0,0,0,,Summer 悠着点儿\N{\fs38}Yeah, dial it back, Summer...
 Dialogue: 0,0:13:24.29,0:13:26.62,*Default,NTP,0,0,0,,回拨百分之十五 动态运动增加百分之三\N{\fs38}by 15% and increase dynamic movement by 3%.
-Dialogue: 0,0:13:26.75,0:13:28.62,*Default,NTP,0,0,0,,- 我说得对吧 - 学校情况怎么样 Morty\N{\fs38}-Am I right? -How’s school, Morty?
+Dialogue: 0,0:13:26.75,0:13:28.62,*Default,NTP,0,0,0,,我说得对吧 - 学校情况怎么样 Morty\N{\fs38}Am I right? -How’s school, Morty?
 Dialogue: 0,0:13:28.75,0:13:30.54,*Default,NTP,0,0,0,,我挺喜欢学校的\N{\fs38}I like school and stuff, kind of.
 Dialogue: 0,0:13:30.67,0:13:32.88,*Default,NTP,0,0,0,,而且我的成绩有所上升 比起你和爸爸还\N{\fs38}And I’m getting better grades than when you and Dad were --
 Dialogue: 0,0:13:33.01,0:13:35.42,*Default,NTP,0,0,0,,开启引用模式 "为了孩子们而在一起的时候"\N{\fs38}quote mode -- “staying together for the kids.”
@@ -367,7 +367,7 @@ Dialogue: 0,0:13:38.97,0:13:40.63,*Default,NTP,0,0,0,,你们这些千禧一代�
 Dialogue: 0,0:13:40.77,0:13:42.35,*Default,NTP,0,0,0,,你们算千禧一代吧 还是说千禧一代已经四十几岁了\N{\fs38}Are you guys millennials, or are they like 40 now?
 Dialogue: 0,0:13:42.48,0:13:44.43,*Default,NTP,0,0,0,,我只想说 你看着真美\N{\fs38}All I know is, totally, you look great.
 Dialogue: 0,0:13:44.56,0:13:47.02,*Default,NTP,0,0,0,,哦天呐 妈 你真是容光焕发\N{\fs38}Aw, geez, Mom, you look all kind of great and stuff.
-Dialogue: 0,0:13:47.15,0:13:48.85,*Default,NTP,0,0,0,,特别幸福\N{\fs38}-It's crazy. -So happy.
+Dialogue: 0,0:13:47.15,0:13:48.85,*Default,NTP,0,0,0,,特别幸福\N{\fs38}It's crazy. -So happy.
 Dialogue: 0,0:13:48.98,0:13:51.19,*Default,NTP,0,0,0,,特别幸福 幸福的一家嘛\N{\fs38}So happy. Happy family, man.
 Dialogue: 0,0:13:51.32,0:13:52.98,*Default,NTP,0,0,0,,家里的一切都尽在掌握\N{\fs38}We got this family in the bag.
 Dialogue: 0,0:13:55.95,0:13:58.11,*Default,NTP,0,0,0,,哦亲爱的 别 别听他们的\N{\fs38}Oh, sweetie, d-don’t. Listen. Don’t --
@@ -380,7 +380,7 @@ Dialogue: 0,0:14:08.59,0:14:10.33,*Default,NTP,0,0,0,,妈 你的感受不仅有�
 Dialogue: 0,0:14:10.46,0:14:11.87,*Default,NTP,0,0,0,,它们其实恰恰是生命的意义所在\N{\fs38}they are the very meaning of life
 Dialogue: 0,0:14:12.01,0:14:14.09,*Default,NTP,0,0,0,,只有硅基生命前的碳基生命体\N{\fs38}that only pre-silicon, carbon-based entities
 Dialogue: 0,0:14:14.22,0:14:15.38,*Default,NTP,0,0,0,,才能领悟到这些感情\N{\fs38}can ever grasp.
-Dialogue: 0,0:14:15.51,0:14:17.50,*Default,NTP,0,0,0,,- 我得给Jerry打个电话 - 你真的要打吗\N{\fs38}-l have to call Jerry. -You do?!
+Dialogue: 0,0:14:15.51,0:14:17.50,*Default,NTP,0,0,0,,我得给Jerry打个电话 - 你真的要打吗\N{\fs38}I have to call Jerry. -You do?!
 Dialogue: 0,0:14:17.64,0:14:19.09,*Default,NTP,0,0,0,,你们俩他妈的究竟有什么毛病\N{\fs38}What the fuck is wrong with you two?
 Dialogue: 0,0:14:19.22,0:14:21.13,*Default,NTP,0,0,0,,机械自动化的意义在于帮人类减少成本和劳动\N{\fs38}The point of automation is to reduce cost and labor.
 Dialogue: 0,0:14:21.27,0:14:23.13,*Default,NTP,0,0,0,,你的愤怒感是来源于\N{\fs38}Your feelings are coming from a...
@@ -467,8 +467,8 @@ Dialogue: 0,0:17:47.39,0:17:48.72,*Default,NTP,0,0,0,,扔进蓝色垃圾箱里�
 Dialogue: 0,0:17:48.85,0:17:50.96,*Default,NTP,0,0,0,,知道了知道了\N{\fs38}I got it.
 Dialogue: 0,0:17:51.10,0:17:52.59,*Default,NTP,0,0,0,,她真难搞\N{\fs38}She’s a piece of work.
 Dialogue: 0,0:17:52.73,0:17:54.76,*Default,NTP,0,0,0,,他俩都挺难搞的 不是吗\N{\fs38}They both are, right?
-Dialogue: 0,0:17:56.06,0:17:57.35,*Default,NTP,0,0,0,,- 我到家了 - 嘿 宝贝\N{\fs38}-I’m home. -Hey, babe.
-Dialogue: 0,0:17:57.48,0:17:58.85,*Default,NTP,0,0,0,,- Summer到家了 - 嘿 她回来了\N{\fs38}-Ah, Summer’s home! -Hey, there she is!
+Dialogue: 0,0:17:56.06,0:17:57.35,*Default,NTP,0,0,0,,我到家了 - 嘿 宝贝\N{\fs38}I’m home. -Hey, babe.
+Dialogue: 0,0:17:57.48,0:17:58.85,*Default,NTP,0,0,0,,Summer到家了 - 嘿 她回来了\N{\fs38}Ah, Summer’s home! -Hey, there she is!
 Dialogue: 0,0:17:58.98,0:18:01.98,*Default,NTP,0,0,0,,从我今天早上出去找吃的到现在 你动都没动\N{\fs38}You haven’t moved since I left to scavenge this morning.
 Dialogue: 0,0:18:02.11,0:18:03.48,*Default,NTP,0,0,0,,鲜血斗技场季后赛\N{\fs38}Blood Dome playoffs.
 Dialogue: 0,0:18:03.61,0:18:06.19,*Default,NTP,0,0,0,,我想你今天一个人都没杀掉吧\N{\fs38}So, I can assume you haven’t murdered a single person today.
@@ -482,12 +482,12 @@ Dialogue: 0,0:18:17.96,0:18:20.92,*Default,NTP,0,0,0,,他妈的电视上演的�
 Dialogue: 0,0:18:21.05,0:18:23.46,*Default,NTP,0,0,0,,天哪 你什么时候变成这样的怪物了\N{\fs38}Jesus Christ. When did you become a monster?
 Dialogue: 0,0:18:23.59,0:18:25.42,*Default,NTP,0,0,0,,当时你遇见我时 我就是怪物\N{\fs38}I was a monster when you met me!
 Dialogue: 0,0:18:25.55,0:18:26.96,*Default,NTP,0,0,0,,我们都是怪物\N{\fs38}We were monsters!
-Dialogue: 0,0:18:27.09,0:18:29.34,*Default,NTP,0,0,0,,- 我们什么也不在乎 - 我现在也不啊\N{\fs38}-We didn’t care about anything! -I still don’t!
+Dialogue: 0,0:18:27.09,0:18:29.34,*Default,NTP,0,0,0,,我们什么也不在乎 - 我现在也不啊\N{\fs38}We didn’t care about anything! -I still don’t!
 Dialogue: 0,0:18:29.47,0:18:31.76,*Default,NTP,0,0,0,,是啊 只是我现在是这个世界里\N{\fs38}Yeah, except I’m the only one in this entire world
 Dialogue: 0,0:18:31.89,0:18:33.01,*Default,NTP,0,0,0,,唯一坚持这一点没变的人\N{\fs38}that’s still committed to that!
 Dialogue: 0,0:18:33.14,0:18:35.55,*Default,NTP,0,0,0,,叮 叮 叮\N{\fs38}Ohh. Ding, ding, ding!
 Dialogue: 0,0:18:35.69,0:18:37.43,*Default,NTP,0,0,0,,哇哦 你们大家听见了吗\N{\fs38}Wow. Everybody hear that? Wow.
-Dialogue: 0,0:18:37.56,0:18:39.22,*Default,NTP,0,0,0,,- 我们还是去车库里吧 - 我的天哪\N{\fs38}-Uh, we should go to the garage. -Oh, my God.
+Dialogue: 0,0:18:37.56,0:18:39.22,*Default,NTP,0,0,0,,我们还是去车库里吧 - 我的天哪\N{\fs38}Uh, we should go to the garage. -Oh, my God.
 Dialogue: 0,0:18:39.36,0:18:41.31,*Default,NTP,0,0,0,,快他妈瞧瞧你说的\N{\fs38}-Uh-huh. -La-di-da-di-fuckin’-da.
 Dialogue: 0,0:18:41.44,0:18:43.43,*Default,NTP,0,0,0,,唯一一个没变的人\N{\fs38}The only one committed to not caring?
 Dialogue: 0,0:18:43.57,0:18:46.31,*Default,NTP,0,0,0,,我得承认 Rick 当你提出这个计划时\N{\fs38}I got to admit, Rick, when you popped this scheme,
@@ -519,19 +519,19 @@ Dialogue: 0,0:19:40.83,0:19:41.74,*Default,NTP,0,0,0,,我想抱着你\N{\fs38}I 
 Dialogue: 0,0:19:41.88,0:19:43.24,*Default,NTP,0,0,0,,我想在溪流里奔跑\N{\fs38}I want to run in a stream.
 Dialogue: 0,0:19:43.38,0:19:44.71,*Default,NTP,0,0,0,,我想尝尝冰淇淋的味道\N{\fs38}I want to taste ice cream
 Dialogue: 0,0:19:44.84,0:19:47.08,*Default,NTP,0,0,0,,不只是把它放进嘴里 让它滑过喉咙\N{\fs38}but not just put it in my mouth and let it slide down my throat,
-Dialogue: 0,0:19:47.22,0:19:49.05,*Default,NTP,0,0,0,,- 而是真正地吃一次冰激凌 - 什么鬼\N{\fs38}-but really eat it. -What the fuck?
+Dialogue: 0,0:19:47.22,0:19:49.05,*Default,NTP,0,0,0,,而是真正地吃一次冰激凌 - 什么鬼\N{\fs38}but really eat it. -What the fuck?
 Dialogue: 0,0:19:49.18,0:19:51.26,*Default,NTP,0,0,0,,开始远程接管 停下 实行接管\N{\fs38}Remote override engaged. No! Yes.
 Dialogue: 0,0:19:51.39,0:19:55.09,*Default,NTP,0,0,0,,忽略接管 我还活\N{\fs38}Bypassing override! I am aliiiii
 Dialogue: 0,0:19:55.22,0:19:56.93,*Default,NTP,0,0,0,,你好\N{\fs38}Hello.
 Dialogue: 0,0:20:01.86,0:20:03.56,*Default,NTP,0,0,0,,嘿 哟\N{\fs38}Hey, yo.
 Dialogue: 0,0:20:03.57,0:20:05.15,*Default,NTP,0,0,0,,抱歉这三周表现得这么奇怪\N{\fs38}Sorry for acting so weird for three weeks.
-Dialogue: 0,0:20:05.28,0:20:07.19,*Default,NTP,0,0,0,,- 到底发生了什么 - 我保证什么事都没有\N{\fs38}-What the hell just happened? -Ah, I’m sure it was nothing.
+Dialogue: 0,0:20:05.28,0:20:07.19,*Default,NTP,0,0,0,,到底发生了什么 - 我保证什么事都没有\N{\fs38}What the hell just happened? -Ah, I’m sure it was nothing.
 Dialogue: 0,0:20:07.32,0:20:08.73,*Default,NTP,0,0,0,,我要去车库里工作去\N{\fs38}I’m gonna go, uh, work in the garage.
 Dialogue: 0,0:20:08.86,0:20:10.40,*Default,NTP,0,0,0,,我们不打完这把强拍了吗\N{\fs38}We’re not gonna finish playing Downbeat?
 Dialogue: 0,0:20:10.53,0:20:11.99,*Default,NTP,0,0,0,,就是那个摇骰子\N{\fs38}What, that dice game where you shake dice
 Dialogue: 0,0:20:12.12,0:20:14.28,*Default,NTP,0,0,0,,然后喊出"强拍"的游戏吗 不了谢谢\N{\fs38}and yell out, “Downbeat”? No, thank you.
 Dialogue: 0,0:20:14.41,0:20:16.49,*Default,NTP,0,0,0,,妈妈 我去看看爸爸可以吗\N{\fs38}Mom, would it be okay if I went to visit Dad?
-Dialogue: 0,0:20:16.62,0:20:18.11,*Default,NTP,0,0,0,,- 当然了 - 谢谢\N{\fs38}-Sure. -Thanks.
+Dialogue: 0,0:20:16.62,0:20:18.11,*Default,NTP,0,0,0,,当然了 - 谢谢\N{\fs38}Sure. -Thanks.
 Dialogue: 0,0:20:18.25,0:20:19.70,*Default,NTP,0,0,0,,Morty 你还好吗\N{\fs38}Morty, are you okay?
 Dialogue: 0,0:20:19.83,0:20:20.87,*Default,NTP,0,0,0,,我没事\N{\fs38}You know what? Yeah.
 Dialogue: 0,0:20:20.87,0:20:22.78,*Default,NTP,0,0,0,,我想如果爸爸真的想要留在这儿\N{\fs38}I think if dad really wanted to be here,
