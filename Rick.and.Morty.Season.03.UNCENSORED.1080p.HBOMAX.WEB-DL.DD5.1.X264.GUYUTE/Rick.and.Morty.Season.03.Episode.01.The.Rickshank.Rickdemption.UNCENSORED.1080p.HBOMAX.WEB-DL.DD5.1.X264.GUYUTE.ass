@@ -33,7 +33,7 @@ Dialogue: 0,0:00:29.64,0:00:31.10,*Default,NTP,0,0,0,,听你的\N{\fs38}You got 
 Dialogue: 0,0:00:36.47,0:00:37.50,*Default,NTP,0,0,0,,只能对折六次是吧\N{\fs38}Six folds, huh?
 Dialogue: 0,0:00:37.63,0:00:39.88,*Default,NTP,0,0,0,,你们就把我关在一台9000系列析脑仪里吗\N{\fs38}W-What, have you guys got me in a Series 9000?
 Dialogue: 0,0:00:40.01,0:00:42.88,*Default,NTP,0,0,0,,你们这些贱胚虫子觉得我配不上你们最好的设备吗\N{\fs38}You cheap insect tucks didn’t think I was worth your best equipment?
-Dialogue: 0,0:00:43.01,0:00:45.68,*Default,NTP,0,0,0,,我都跟那些管钱的说了\N{\fs38}[Chuckles] Man, I told the money bugs.
+Dialogue: 0,0:00:43.01,0:00:45.68,*Default,NTP,0,0,0,,我都跟那些管钱的说了\N{\fs38}Man, I told the money bugs.
 Dialogue: 0,0:00:45.81,0:00:47.72,*Default,NTP,0,0,0,,我说 "你们都知道他是谁 对吧\N{\fs38}I said, “You know who this guy is, right?
 Dialogue: 0,0:00:47.85,0:00:49.89,*Default,NTP,0,0,0,,若是想要我从银河里最聪明的哺乳动物那儿套情报\N{\fs38}You want me to get intel out of the smartest mammal
 Dialogue: 0,0:00:50.02,0:00:52.60,*Default,NTP,0,0,0,,你们最好给我配台先进的析脑仪"\N{\fs38}in the galaxy, you’d better give me a decent brainalyzer.”
@@ -41,11 +41,11 @@ Dialogue: 0,0:00:52.73,0:00:54.35,*Default,NTP,0,0,0,,你是不是也点几个�
 Dialogue: 0,0:00:54.48,0:00:56.35,*Default,NTP,0,0,0,,我反正是不急离开我脑里现在这个场景\N{\fs38}because I don’t see the need to leave this part of my brain.
 Dialogue: 0,0:00:56.49,0:00:57.94,*Default,NTP,0,0,0,,怎么不急呢\N{\fs38}Oh, I think you do.
 Dialogue: 0,0:00:58.07,0:01:00.11,*Default,NTP,0,0,0,,毕竟要么是你放松你的小脑\N{\fs38}Eventually, you’re either gonna relax your cerebellum...
-Dialogue: 0,0:01:00.24,0:01:03.36,*Default,NTP,0,0,0,,- 放松我的肖尼斯 - 要么9000把你的脑子融掉\N{\fs38}- Shoney’s. - or the Series 9000 is going to turn it into mush.
-Dialogue: 0,0:01:03.49,0:01:05.53,*Default,NTP,0,0,0,,够放松了吗\N{\fs38}-[ Farts] -Relaxed enough? [Chuckles]
-Dialogue: 0,0:01:05.66,0:01:07.03,*Default,NTP,0,0,0,,我欣赏你 Rick\N{\fs38}-l admire you, Rick. -[ Farts]
-Dialogue: 0,0:01:08.16,0:01:09.70,*Default,NTP,0,0,0,,当我\N{\fs38}-When I -- -[ Farts I
-Dialogue: 0,0:01:09.83,0:01:11.29,*Default,NTP,0,0,0,,Rick 听我说\N{\fs38}-Rick, here’s -- -[ Farts]
+Dialogue: 0,0:01:00.24,0:01:03.36,*Default,NTP,0,0,0,,放松我的肖尼斯 - 要么9000把你的脑子融掉\N{\fs38}Shoney’s. - or the Series 9000 is going to turn it into mush.
+Dialogue: 0,0:01:03.49,0:01:05.53,*Default,NTP,0,0,0,,够放松了吗\N{\fs38}Relaxed enough?
+Dialogue: 0,0:01:05.66,0:01:07.03,*Default,NTP,0,0,0,,我欣赏你 Rick\N{\fs38}-l admire you, Rick.
+Dialogue: 0,0:01:08.16,0:01:09.70,*Default,NTP,0,0,0,,当我\N{\fs38}When I -- I
+Dialogue: 0,0:01:09.83,0:01:11.29,*Default,NTP,0,0,0,,Rick 听我说\N{\fs38}Rick, here’s --
 Dialogue: 0,0:01:14.75,0:01:15.48,*Default,NTP,0,0,0,,进展怎么样\N{\fs38}What’s going on?
 Dialogue: 0,0:01:15.48,0:01:18.08,*Default,NTP,0,0,0,,尚不明朗 他好像臆想出了某种屁股\N{\fs38}It’s hard to tell.He may have manifested some sort of butt.
 Dialogue: 0,0:01:18.22,0:01:19.08,*Default,NTP,0,0,0,,他还有这本事\N{\fs38}He can do that?
@@ -60,7 +60,7 @@ Dialogue: 0,0:02:09.93,0:02:11.77,*Default,NTP,0,0,0,,等你自己靠不知道�
 Dialogue: 0,0:02:11.89,0:02:13.23,*Default,NTP,0,0,0,,你想干什么都随你\N{\fs38}you can make your own rules.
 Dialogue: 0,0:02:13.35,0:02:15.31,*Default,NTP,0,0,0,,Summer 对你爸爸尊敬点儿\N{\fs38}Summer, show your father some respect.
 Dialogue: 0,0:02:15.44,0:02:17.73,*Default,NTP,0,0,0,,他挣的可是六"味"数的收入呢\N{\fs38}He’s pulling down a six-chewable-figure income.
-Dialogue: 0,0:02:17.86,0:02:20.98,*Default,NTP,0,0,0,,待会儿我来收拾 大家的药丸味道怎么样\N{\fs38}-[ Glass shatters] -I’ll get that in a moment.How are everyone’s pills?
+Dialogue: 0,0:02:17.86,0:02:20.98,*Default,NTP,0,0,0,,待会儿我来收拾 大家的药丸味道怎么样\N{\fs38}I’ll get that in a moment.How are everyone’s pills?
 Dialogue: 0,0:02:21.11,0:02:22.90,*Default,NTP,0,0,0,,噢 Morty 你都没怎么吃你的药丸啊\N{\fs38}Oh, Morty, you’ve hardly touched your pills.
 Dialogue: 0,0:02:23.03,0:02:24.90,*Default,NTP,0,0,0,,午餐药丸吃的有点儿多 而且我\N{\fs38}I kind of had big pills for lunch, and I...
 Dialogue: 0,0:02:25.03,0:02:26.82,*Default,NTP,0,0,0,,再也不想吃药丸了\N{\fs38}wasn’t gonna eat any more pills.
@@ -93,7 +93,7 @@ Dialogue: 0,0:03:20.06,0:03:22.20,*Default,NTP,0,0,0,,还是你收到信号 有�
 Dialogue: 0,0:03:22.34,0:03:23.46,*Default,NTP,0,0,0,,是兴奋\N{\fs38}It’s arousal.
 Dialogue: 0,0:03:23.59,0:03:25.55,*Default,NTP,0,0,0,,是的 我很乐意去看看\N{\fs38}Yes, I’d like very much to visit the memory
 Dialogue: 0,0:03:25.68,0:03:26.88,*Default,NTP,0,0,0,,你发明传送门枪的那段记忆\N{\fs38}of you inventing your portal gun.
-Dialogue: 0,0:03:27.01,0:03:29.30,*Default,NTP,0,0,0,,你给我的山芋很烫手啊\N{\fs38}-Yeah. Well, tough titties. -[ Rumbling, glass breaking ]
+Dialogue: 0,0:03:27.01,0:03:29.30,*Default,NTP,0,0,0,,你给我的山芋很烫手啊\N{\fs38}-Yeah. Well, tough titties.
 Dialogue: 0,0:03:29.43,0:03:32.30,*Default,NTP,0,0,0,,有比神经崩溃更烫手的山芋吗 Rick\N{\fs38}There’s no tougher titty than a psychotic break, Rick.
 Dialogue: 0,0:03:32.43,0:03:36.35,*Default,NTP,0,0,0,,好吧 那就要看是什么先崩溃了 我 还是 山芋\N{\fs38}Well, that depends on who breaks first -- me or the titty.
 Dialogue: 0,0:03:38.36,0:03:40.39,*Default,NTP,0,0,0,,这是某个你记忆里特别的人吗\N{\fs38}Someone special you remember?
@@ -105,7 +105,7 @@ Dialogue: 0,0:03:53.33,0:03:54.61,*Default,NTP,0,0,0,,她也会在那儿 对吗\
 Dialogue: 0,0:03:54.75,0:03:57.91,*Default,NTP,0,0,0,,我发明传送门枪的那天就是我失去她的那天\N{\fs38}The day I invented the portal gun is the day I lost her.
 Dialogue: 0,0:03:58.04,0:03:58.91,*Default,NTP,0,0,0,,听起来不错啊\N{\fs38}Oh, that sounds cool.
 Dialogue: 0,0:03:59.04,0:04:01.20,*Default,NTP,0,0,0,,我能弄到我想要的 你也能道个别\N{\fs38}I can get what I want and you can say goodbye.
-Dialogue: 0,0:04:01.34,0:04:04.04,*Default,NTP,0,0,0,,好吧 但是我来开车\N{\fs38}[Sighs] Fine, but I’m driving.
+Dialogue: 0,0:04:01.34,0:04:04.04,*Default,NTP,0,0,0,,好吧 但是我来开车\N{\fs38}Fine, but I’m driving.
 Dialogue: 0,0:04:04.17,0:04:05.88,*Default,NTP,0,0,0,,作为剥去我们自由的借口\N{\fs38}.as an excuse to strip away our freedom.
 Dialogue: 0,0:04:07.89,0:04:10.88,*Default,NTP,0,0,0,,你这是 你这是在干嘛\N{\fs38}Huh? What are you -- What are you doing?
 Dialogue: 0,0:04:11.01,0:04:13.47,*Default,NTP,0,0,0,,外公肯定有秘密实验室 对吧\N{\fs38}Grandpa Rick must have some secret lab, right?
@@ -176,10 +176,10 @@ Dialogue: 0,0:06:42.71,0:06:44.04,*Default,NTP,0,0,0,,英雄不就是这样吗\N
 Dialogue: 0,0:06:44.17,0:06:45.50,*Default,NTP,0,0,0,,你 你想要看Rick是什么样的英雄吗\N{\fs38}You want to see what a hero Rick is?
 Dialogue: 0,0:06:45.63,0:06:47.71,*Default,NTP,0,0,0,,我 我带你去个地方 Summer\N{\fs38}I-Ill bring you somewhere, Summer!
 Dialogue: 0,0:06:47.84,0:06:50.20,*Default,NTP,0,0,0,,- 嗯 - 我的天呐 孩子们\N{\fs38}-Urn... -My goodness, children.
-Dialogue: 0,0:06:51.34,0:06:52.88,*Default,NTP,0,0,0,,放下那个非法科技\N{\fs38}[Sternly] Relinquish the illegal technology
+Dialogue: 0,0:06:51.34,0:06:52.88,*Default,NTP,0,0,0,,放下那个非法科技\N{\fs38}Relinquish the illegal technology
 Dialogue: 0,0:06:53.01,0:06:54.84,*Default,NTP,0,0,0,,交给最近的联邦议员\N{\fs38}to the nearest Federation representative.
-Dialogue: 0,0:06:54.97,0:06:58.09,*Default,NTP,0,0,0,,然后我们来玩"胡言乱语"猜谜游戏\N{\fs38}[Normal voice ] And then we’ll all play Balderdash.
-Dialogue: 0,0:07:12.70,0:07:16.48,*Default,NTP,0,0,0,,哦 我的天呐\N{\fs38}[Grunts] Oh, my goodness!Oh! Oh! My goo-
+Dialogue: 0,0:06:54.97,0:06:58.09,*Default,NTP,0,0,0,,然后我们来玩"胡言乱语"猜谜游戏\N{\fs38}And then we’ll all play Balderdash.
+Dialogue: 0,0:07:12.70,0:07:16.48,*Default,NTP,0,0,0,,哦 我的天呐\N{\fs38}Oh, my goodness!Oh! Oh! My goo-
 Dialogue: 0,0:07:19.41,0:07:21.32,*Default,NTP,0,0,0,,哦 我的天呀\N{\fs38}Oh, my God.
 Dialogue: 0,0:07:21.45,0:07:23.70,*Default,NTP,0,0,0,,我有一件一模一样的上衣\N{\fs38}I have that exact same Top.
 Dialogue: 0,0:07:23.83,0:07:25.20,*Default,NTP,0,0,0,,这是哪里\N{\fs38}What is this place?
@@ -220,7 +220,7 @@ Dialogue: 0,0:08:41.08,0:08:44.36,*Default,NTP,0,0,0,,我就是来跑一趟 实�
 Dialogue: 0,0:08:44.50,0:08:46.58,*Default,NTP,0,0,0,,- 所以 嗯 - 在找这个吗\N{\fs38}-So, uh... -Looking for this?
 Dialogue: 0,0:08:46.71,0:08:47.93,*Default,NTP,0,0,0,,你拿着这个要干嘛\N{\fs38}What are you doing with that?!
 Dialogue: 0,0:08:47.93,0:08:50.10,*Default,NTP,0,0,0,,它有Rick的臭味\N{\fs38}It stinks of Rick.
-Dialogue: 0,0:08:50.10,0:08:52.16,*Default,NTP,0,0,0,,不 为什么 为什么你要这么做\N{\fs38}[ Grunts] -No! Why?!Why would you do that?!
+Dialogue: 0,0:08:50.10,0:08:52.16,*Default,NTP,0,0,0,,不 为什么 为什么你要这么做\N{\fs38}No! Why?!Why would you do that?!
 Dialogue: 0,0:08:52.29,0:08:54.16,*Default,NTP,0,0,0,,你 你 你们这些人有什么毛病\N{\fs38}W-What is the matter with you people?!
 Dialogue: 0,0:08:54.30,0:08:58.33,*Default,NTP,0,0,0,,你们这帮野蛮人 原始的野蛮傻逼\N{\fs38}You’re a bunch of back savages --backwood savage morons!
 Dialogue: 0,0:08:58.47,0:09:01.76,*Default,NTP,0,0,0,,你永远不能离开 她不能留下\N{\fs38}You can never leave. She cannot remain.
@@ -237,7 +237,7 @@ Dialogue: 0,0:09:21.95,0:09:23.66,*Default,NTP,0,0,0,,我们马上派Rick海豹�
 Dialogue: 0,0:09:23.78,0:09:25.74,*Default,NTP,0,0,0,,闯入关押C-137的监狱\N{\fs38}to break into the prison holding 0-137...
 Dialogue: 0,0:09:25.87,0:09:28.19,*Default,NTP,0,0,0,,- 超帅 - 然后刺杀他\N{\fs38}Boo-yah....and assassinate him.
 Dialogue: 0,0:09:28.33,0:09:30.37,*Default,NTP,0,0,0,,超衰\N{\fs38}Boo-nah?
-Dialogue: 0,0:09:30.50,0:09:33.87,*Default,NTP,0,0,0,,来吧 姑娘们 冰淇淋要化掉了\N{\fs38}-[ Horn honks] -Come on, girls!The ice cream’s gonna melt!
+Dialogue: 0,0:09:30.50,0:09:33.87,*Default,NTP,0,0,0,,来吧 姑娘们 冰淇淋要化掉了\N{\fs38}Come on, girls!The ice cream’s gonna melt!
 Dialogue: 0,0:09:44.51,0:09:48.10,*Default,NTP,0,0,0,,不\N{\fs38}N o-o-o-o-o-o-o!
 Dialogue: 0,0:09:48.23,0:09:51.01,*Default,NTP,0,0,0,,哇哦 这酱真他妈好吃\N{\fs38}Wow. This sauce is tucking amazing.
 Dialogue: 0,0:09:51.15,0:09:52.48,*Default,NTP,0,0,0,,是为了宣传一部电影是吗\N{\fs38}You said it was promoting a movie?
@@ -276,20 +276,20 @@ Dialogue: 0,0:11:03.92,0:11:05.25,*Default,NTP,0,0,0,,对吹奏喇叭的渴望\N
 Dialogue: 0,0:11:05.38,0:11:06.79,*Default,NTP,0,0,0,,买顶帽子的暂定计划\N{\fs38}my tentative plans to purchase a hat,
 Dialogue: 0,0:11:06.93,0:11:08.38,*Default,NTP,0,0,0,,还有六年的喜剧即兴表演研讨班\N{\fs38}and six years of improv workshops.
 Dialogue: 0,0:11:08.51,0:11:09.94,*Default,NTP,0,0,0,,喜剧成三(喜剧创作的准则)\N{\fs38}-Comedy comes in threes.
-Dialogue: 0,0:11:09.94,0:11:12.25,*Default,NTP,0,0,0,,这是一个圈套 计划中止 我们从来没有离开他的\N{\fs38}It's a trap!Abort! We never left his -- -[ Farts]
+Dialogue: 0,0:11:09.94,0:11:12.25,*Default,NTP,0,0,0,,这是一个圈套 计划中止 我们从来没有离开他的\N{\fs38}It's a trap!Abort! We never left his --
 Dialogue: 0,0:11:13.60,0:11:15.46,*Default,NTP,0,0,0,,不\N{\fs38}No!
 Dialogue: 0,0:11:18.19,0:11:19.60,*Default,NTP,0,0,0,,照以前一样\N{\fs38}Another day, another dollar.
 Dialogue: 0,0:11:19.73,0:11:21.34,*Default,NTP,0,0,0,,我是伟大的昆虫生物 不然呢\N{\fs38}Am I a great insect creature or what?!
 Dialogue: 0,0:11:21.48,0:11:22.56,*Default,NTP,0,0,0,,祝贺你 特工\N{\fs38}Congratulations, Agent.
 Dialogue: 0,0:11:22.69,0:11:23.93,*Default,NTP,0,0,0,,你会因此大受赞扬的\N{\fs38}You’ll be highly commended for this.
-Dialogue: 0,0:11:24.07,0:11:26.25,*Default,NTP,0,0,0,,时刻等待着获许拥有成就感\N{\fs38}Always wait for permission to [burps]feel accomplishment .
+Dialogue: 0,0:11:24.07,0:11:26.25,*Default,NTP,0,0,0,,时刻等待着获许拥有成就感\N{\fs38}Always wait for permission to feel accomplishment .
 Dialogue: 0,0:11:26.25,0:11:28.65,*Default,NTP,0,0,0,,- 我的座右铭 - 我还有一件事想不通\N{\fs38}-- That’s my motto.- One thing still perplexes me --
 Dialogue: 0,0:11:28.66,0:11:30.36,*Default,NTP,0,0,0,,为什么Rick Sanchez会来自首\N{\fs38}Why would Rick Sanchez turn himself in?
 Dialogue: 0,0:11:30.49,0:11:32.95,*Default,NTP,0,0,0,,这个嘛 我只是个蠢虫子 但是Rick有可能早就知道\N{\fs38}Well, I’m just a dumb-ass bug, but it’s possible Rick knew
 Dialogue: 0,0:11:33.08,0:11:34.49,*Default,NTP,0,0,0,,他会被用这个装置审问\N{\fs38}he’d be interrogated at this facility,
 Dialogue: 0,0:11:34.62,0:11:36.11,*Default,NTP,0,0,0,,而这个装置不仅有我们最想要的信息\N{\fs38}where we not only keep our most wanted,
 Dialogue: 0,0:11:36.25,0:11:37.36,*Default,NTP,0,0,0,,还保存着我们最敏感的数据\N{\fs38}but our most sensitive data.
-Dialogue: 0,0:11:37.50,0:11:39.53,*Default,NTP,0,0,0,,这里任何拥有九级授权的人就可以\N{\fs38}Anyone here with level-9 access could [burps]
+Dialogue: 0,0:11:37.50,0:11:39.53,*Default,NTP,0,0,0,,这里任何拥有九级授权的人就可以\N{\fs38}Anyone here with level-9 access could
 Dialogue: 0,0:11:39.67,0:11:41.33,*Default,NTP,0,0,0,,说不准 瓦解一个政府\N{\fs38}I don’t know. Collapse the government.
 Dialogue: 0,0:11:41.46,0:11:42.74,*Default,NTP,0,0,0,,我要去拉屎\N{\fs38}I’m just gonna go take a dump.
 Dialogue: 0,0:11:42.88,0:11:44.62,*Default,NTP,0,0,0,,介意我用一下九级的洗手间吗\N{\fs38}Is it cool if I use the Ievel-9 bathrooms?
@@ -304,11 +304,11 @@ Dialogue: 0,0:12:05.23,0:12:07.85,*Default,NTP,0,0,0,,真扫兴 我还没来得�
 Dialogue: 0,0:12:07.99,0:12:09.60,*Default,NTP,0,0,0,,等等 等等 等等 等等 我们是受Rick委员会指示\N{\fs38}Wait, wait, wait, wait! T-The Council of Ricks sent us.
 Dialogue: 0,0:12:09.74,0:12:10.94,*Default,NTP,0,0,0,,我们手里有你的Morty和Summer\N{\fs38}We have your Morty and Summer.
 Dialogue: 0,0:12:11.07,0:12:12.40,*Default,NTP,0,0,0,,他们作为俘虏关押在大本营\N{\fs38}They’re prisoners on the Citadel.
-Dialogue: 0,0:12:12.53,0:12:13.49,*Default,NTP,0,0,0,,很好\N{\fs38}-Great. -[ Grunts]
-Dialogue: 0,0:12:13.62,0:12:16.03,*Default,NTP,0,0,0,,6755号房间发生安保事故\N{\fs38}-Security breach in room 6755. -[ Alarm blaring ]
+Dialogue: 0,0:12:12.53,0:12:13.49,*Default,NTP,0,0,0,,很好\N{\fs38}Great. 
+Dialogue: 0,0:12:13.62,0:12:16.03,*Default,NTP,0,0,0,,6755号房间发生安保事故\N{\fs38}Security breach in room 6755.
 Dialogue: 0,0:12:16.16,0:12:16.87,*Default,NTP,0,0,0,,这下好了 不但我的计划被搞砸了\N{\fs38}Lovely.
 Dialogue: 0,0:12:17.00,0:12:19.83,*Default,NTP,0,0,0,,关于即兴表演的记忆也全没了\N{\fs38}Not only is my plan screwed up, I also forgot how to improvise.
-Dialogue: 0,0:12:19.96,0:12:21.87,*Default,NTP,0,0,0,,所有安保人员立即前往\N{\fs38}-All security people approach. -[ Grunts]
+Dialogue: 0,0:12:19.96,0:12:21.87,*Default,NTP,0,0,0,,所有安保人员立即前往\N{\fs38}-All security people approach.
 Dialogue: 0,0:12:22.00,0:12:22.80,*Default,NTP,0,0,0,,安保事故\N{\fs38}Security breach.
 Dialogue: 0,0:12:30.26,0:12:31.79,*Default,NTP,0,0,0,,这是一座全是外公的城市吗\N{\fs38}A city of Grandpas?
 Dialogue: 0,0:12:31.93,0:12:33.29,*Default,NTP,0,0,0,,这是Rick的大本营\N{\fs38}It's the Citadel of Ricks.
@@ -328,7 +328,7 @@ Dialogue: 0,0:13:02.62,0:13:03.49,*Default,NTP,0,0,0,,让他进来\N{\fs38}Bring
 Dialogue: 0,0:13:03.63,0:13:06.83,*Default,NTP,0,0,0,,他说他只愿意与一名更高级别的Rick通话\N{\fs38}He says he’ll only talk to a Rick with higher clearance.
 Dialogue: 0,0:13:06.96,0:13:08.87,*Default,NTP,0,0,0,,真矫情 把那玩意儿给我\N{\fs38}La-d i-da. Give me that.
 Dialogue: 0,0:13:09.01,0:13:12.34,*Default,NTP,0,0,0,,D-99 我是大本营自卫队的总司令\N{\fs38}D-99, this is the commander in chief of the Citadel’s militia.
-Dialogue: 0,0:13:12.47,0:13:13.63,*Default,NTP,0,0,0,,够好了\N{\fs38}Go-- [Burps] Good enough.
+Dialogue: 0,0:13:12.47,0:13:13.63,*Default,NTP,0,0,0,,够好了\N{\fs38}Go--Good enough.
 Dialogue: 0,0:13:16.10,0:13:18.93,*Default,NTP,0,0,0,,他是个间谍 炸了他 我要去拉屎\N{\fs38}He’s a spy. Blow him up. I’m gonna go take a shit.
 Dialogue: 0,0:13:19.06,0:13:21.05,*Default,NTP,0,0,0,,操作一支未注册的传送枪\N{\fs38}Operating an unregistered portal gun,
 Dialogue: 0,0:13:21.18,0:13:22.72,*Default,NTP,0,0,0,,将一名Summer转变为激进分子\N{\fs38}radicalizing a Summer,
@@ -338,8 +338,8 @@ Dialogue: 0,0:13:25.56,0:13:26.89,*Default,NTP,0,0,0,,这怎么算得上是个�
 Dialogue: 0,0:13:27.02,0:13:28.51,*Default,NTP,0,0,0,,我们的辩护律师是个Morty\N{\fs38}0-Our lawyer is a Morty!
 Dialogue: 0,0:13:28.65,0:13:30.86,*Default,NTP,0,0,0,,这不公平 你们没有权利 他也不是个律师\N{\fs38}It’s not fair, you have no rights, and he’s not a lawyer.
 Dialogue: 0,0:13:30.99,0:13:32.57,*Default,NTP,0,0,0,,我们让他待在这里是因为他很逗\N{\fs38}We just keep him here because he’s fun.
-Dialogue: 0,0:13:32.70,0:13:33.81,*Default,NTP,0,0,0,,瞧他那傻样\N{\fs38}Look at him go. [ Laughs]
-Dialogue: 0,0:13:33.95,0:13:35.06,*Default,NTP,0,0,0,,哈哈 耶\N{\fs38}[ Laughs I Yeah!
+Dialogue: 0,0:13:32.70,0:13:33.81,*Default,NTP,0,0,0,,瞧他那傻样\N{\fs38}Look at him go.
+Dialogue: 0,0:13:33.95,0:13:35.06,*Default,NTP,0,0,0,,哈哈 耶\N{\fs38}[Laughs]-Yeah!
 Dialogue: 0,0:13:35.20,0:13:37.53,*Default,NTP,0,0,0,,如果你与你的Rick断绝关系我们就从宽办案\N{\fs38}We’ll be lenient if you renounce your Rick.
 Dialogue: 0,0:13:37.66,0:13:39.02,*Default,NTP,0,0,0,,你怎么说 Summer\N{\fs38}What say you, Summer?
 Dialogue: 0,0:13:39.16,0:13:40.38,*Default,NTP,0,0,0,,滚你丫的\N{\fs38}I say fuck you!
@@ -349,7 +349,7 @@ Dialogue: 0,0:13:43.83,0:13:45.45,*Default,NTP,0,0,0,,这点从发型就明显�
 Dialogue: 0,0:13:45.58,0:13:47.74,*Default,NTP,0,0,0,,所以你们把我怎么样都行 但是要放我弟弟走\N{\fs38}So do what you want to me, but let my brother go.
 Dialogue: 0,0:13:47.88,0:13:49.29,*Default,NTP,0,0,0,,他已经跟Rick断绝关系了\N{\fs38}He already renounced Rick.
 Dialogue: 0,0:13:49.42,0:13:50.03,*Default,NTP,0,0,0,,Morty\N{\fs38}Morty?
-Dialogue: 0,0:13:50.17,0:13:51.91,*Default,NTP,0,0,0,,什么\N{\fs38}-[ Whispers indistinctly] -What?
+Dialogue: 0,0:13:50.17,0:13:51.91,*Default,NTP,0,0,0,,什么\N{\fs38}What?
 Dialogue: 0,0:13:52.05,0:13:54.51,*Default,NTP,0,0,0,,不 我才不要看你的游戏币收藏\N{\fs38}N-No, I don’t want to see your pog collection.
 Dialogue: 0,0:13:54.63,0:13:56.88,*Default,NTP,0,0,0,,我没有与Rick断绝关系 我从来都没有\N{\fs38}I don’t renounce Rick, and I never have.
 Dialogue: 0,0:13:57.01,0:13:59.38,*Default,NTP,0,0,0,,我只是想保护我的姐姐\N{\fs38}I was just trying to protect my sister.
@@ -369,14 +369,14 @@ Dialogue: 0,0:14:32.38,0:14:34.67,*Default,NTP,0,0,0,,这个区域只需要几�
 Dialogue: 0,0:14:34.80,0:14:37.26,*Default,NTP,0,0,0,,就可以把整个大本营传送到别处\N{\fs38}to somewhere else using only buttons and dials.
 Dialogue: 0,0:14:37.39,0:14:38.92,*Default,NTP,0,0,0,,那一开始设计成这样\N{\fs38}Yeah? Well, it’s a bad idea
 Dialogue: 0,0:14:39.05,0:14:41.84,*Default,NTP,0,0,0,,就很不明智了对不对\N{\fs38}to have it designed that way then, isn’t it?
-Dialogue: 0,0:14:47.94,0:14:48.93,*Default,NTP,0,0,0,,这他妈是怎么搞的\N{\fs38}-[ Screaming] -What the tuck?
+Dialogue: 0,0:14:47.94,0:14:48.93,*Default,NTP,0,0,0,,这他妈是怎么搞的\N{\fs38}What the tuck?
 Dialogue: 0,0:14:49.06,0:14:51.43,*Default,NTP,0,0,0,,我们被传送到了银河联邦监狱\N{\fs38}We just teleported into a Galactic tederal prison!
-Dialogue: 0,0:14:51.57,0:14:53.98,*Default,NTP,0,0,0,,我要去拉屎\N{\fs38}-I’m gonna go take a shit. -[ Alarm blaring ]
+Dialogue: 0,0:14:51.57,0:14:53.98,*Default,NTP,0,0,0,,我要去拉屎\N{\fs38}-I’m gonna go take a shit.
 Dialogue: 0,0:14:54.11,0:14:55.46,*Default,NTP,0,0,0,,法庭内请保持秩序\N{\fs38}Order in the court!
 Dialogue: 0,0:14:55.46,0:14:56.85,*Default,NTP,0,0,0,,喔 这是怎么回事 我的天哪\N{\fs38}Whoa! What the hell?!Oh, my God!
 Dialogue: 0,0:15:00.87,0:15:02.28,*Default,NTP,0,0,0,,等等 等等 等等 等等 不 不 不\N{\fs38}Wait, wait, wait, wait! No, no, no!
 Dialogue: 0,0:15:08.25,0:15:09.20,*Default,NTP,0,0,0,,喔\N{\fs38}Whoa!
-Dialogue: 0,0:15:16.63,0:15:20.59,*Default,NTP,0,0,0,,大本营被传送到了联邦的地盘\N{\fs38}The Citadel has been teleported to [burps] Federation space.
+Dialogue: 0,0:15:16.63,0:15:20.59,*Default,NTP,0,0,0,,大本营被传送到了联邦的地盘\N{\fs38}The Citadel has been teleported to Federation space.
 Dialogue: 0,0:15:20.72,0:15:23.30,*Default,NTP,0,0,0,,完蛋了 这一定是C-137干的\N{\fs38}It’s doomed. This has to be C-137, you guys.
 Dialogue: 0,0:15:23.43,0:15:24.76,*Default,NTP,0,0,0,,- 我们该怎么办 - 他要找我们算账了\N{\fs38}-What are we gonna do?! -You know he’s coming for us.
 Dialogue: 0,0:15:24.89,0:15:27.01,*Default,NTP,0,0,0,,行了 都冷静 我们可以把他的Summer当做人质\N{\fs38}All right! Calm down! We have his Summer as a hostage.
@@ -392,7 +392,7 @@ Dialogue: 0,0:15:49.67,0:15:51.41,*Default,NTP,0,0,0,,够了 Rick\N{\fs38}COUNCI
 Dialogue: 0,0:15:51.54,0:15:53.16,*Default,NTP,0,0,0,,你这是想干什么\N{\fs38}What -- What’s this supposed to accomplish?
 Dialogue: 0,0:15:53.29,0:15:54.41,*Default,NTP,0,0,0,,我们的外孙多得用不完\N{\fs38}We have infinite grandkids.
 Dialogue: 0,0:15:54.55,0:15:57.00,*Default,NTP,0,0,0,,你这好比是想在凯撒宫酒店里花掉迪士尼代币\N{\fs38}You’re trying to use Disney bucks at a Caesars Palace here.
-Dialogue: 0,0:15:57.13,0:15:59.46,*Default,NTP,0,0,0,,他在唬你 他很爱我的\N{\fs38}[Gasps ] That’s a bluff. He’s bluffing, sir. He loves me.
+Dialogue: 0,0:15:57.13,0:15:59.46,*Default,NTP,0,0,0,,他在唬你 他很爱我的\N{\fs38}That’s a bluff. He’s bluffing, sir. He loves me.
 Dialogue: 0,0:15:59.59,0:16:02.13,*Default,NTP,0,0,0,,你不按套路出牌 不理性又感情用事\N{\fs38}You’re a rogue Rick -- irrational, passionate.
 Dialogue: 0,0:16:02.26,0:16:04.88,*Default,NTP,0,0,0,,你爱你的外孙 你来这儿就是要救他们\N{\fs38}You love your grandkids. You came to rescue them.
 Dialogue: 0,0:16:05.01,0:16:06.80,*Default,NTP,0,0,0,,我是来杀你的 哥们\N{\fs38}I came to kill you, bro.
@@ -427,7 +427,7 @@ Dialogue: 0,0:16:57.19,0:16:58.18,*Default,NTP,0,0,0,,你这等于是害死了�
 Dialogue: 0,0:16:58.32,0:16:59.98,*Default,NTP,0,0,0,,- 你太烂了 - 你傻得和一袋沙子没啥区别\N{\fs38}-You’re the worst! -You’re dumb as a bag of sand!
 Dialogue: 0,0:17:06.03,0:17:07.57,*Default,NTP,0,0,0,,看现在到底是谁傻\N{\fs38}Who’s stupid now, bitch?!
 Dialogue: 0,0:17:07.70,0:17:09.36,*Default,NTP,0,0,0,,Morty 他才刚回到我们身边\N{\fs38}Morty! We just got him back!
-Dialogue: 0,0:17:09.50,0:17:11.95,*Default,NTP,0,0,0,,干得漂亮啊 Morty\N{\fs38}[Laughs I That was amazing, Morty.
+Dialogue: 0,0:17:09.50,0:17:11.95,*Default,NTP,0,0,0,,干得漂亮啊 Morty\N{\fs38}[Laughs] That was amazing, Morty.
 Dialogue: 0,0:17:12.08,0:17:13.45,*Default,NTP,0,0,0,,我的天啊 你可真棒\N{\fs38}Oh, my God. Wow.
 Dialogue: 0,0:17:13.58,0:17:15.16,*Default,NTP,0,0,0,,好吧 现在我们来做个了结\N{\fs38}Okay. Let’s wrap this --
 Dialogue: 0,0:17:16.54,0:17:18.25,*Default,NTP,0,0,0,,干得好 Morty 我们走吧 孩子们\N{\fs38}Good job, Morty. Let’s go, kids.
@@ -442,7 +442,7 @@ Dialogue: 0,0:17:37.94,0:17:41.02,*Default,NTP,0,0,0,,这就是不用密码就�
 Dialogue: 0,0:17:42.11,0:17:42.98,*Default,NTP,0,0,0,,别动\N{\fs38}Freeze!
 Dialogue: 0,0:17:43.11,0:17:45.19,*Default,NTP,0,0,0,,大家请看 月度最佳员工\N{\fs38}Employee of the month, ladies and gentlemen.
 Dialogue: 0,0:17:45.32,0:17:47.36,*Default,NTP,0,0,0,,所以你到底要用九级权限做什么\N{\fs38}So what are you doing with level-9 access anyways?
-Dialogue: 0,0:17:47.49,0:17:50.27,*Default,NTP,0,0,0,,- 毁掉银河联邦啊 - 棒极了 - 哇 太酷了\N{\fs38}- Destroying the [burps] Galactic government.-Awesome! -Whoa! Cool!
+Dialogue: 0,0:17:47.49,0:17:50.27,*Default,NTP,0,0,0,,毁掉银河联邦啊 - 棒极了 - 哇 太酷了\N{\fs38}- Destroying the Galactic government.-Awesome! -Whoa! Cool!
 Dialogue: 0,0:17:50.41,0:17:52.32,*Default,NTP,0,0,0,,你是要让他们用核武器自相残杀吗\N{\fs38}Are you going to set all their nukes to target each other?
 Dialogue: 0,0:17:52.46,0:17:54.07,*Default,NTP,0,0,0,,啊 还可以重新设定他们军队的传送门\N{\fs38}Ooh, or -- or reprogram their military portals
 Dialogue: 0,0:17:54.21,0:17:55.66,*Default,NTP,0,0,0,,来毁掉他们所有的太空舰队\N{\fs38}to disintegrate their entire space fleet?
@@ -473,7 +473,7 @@ Dialogue: 0,0:19:21.92,0:19:23.63,*Default,NTP,0,0,0,,银河联邦垮台了\N{\f
 Dialogue: 0,0:19:23.75,0:19:24.69,*Default,NTP,0,0,0,,你还好吗\N{\fs38}Are you okay?
 Dialogue: 0,0:19:24.69,0:19:26.67,*Default,NTP,0,0,0,,听着 虽然说出来并不光彩 但是\N{\fs38}Look.I’m not proud to share this, but the truth is,
 Dialogue: 0,0:19:26.80,0:19:28.59,*Default,NTP,0,0,0,,我刚才一路爬回来的 这招真管用\N{\fs38}I just kept crawling, and it kept working.
-Dialogue: 0,0:19:28.72,0:19:30.55,*Default,NTP,0,0,0,,你没事就太好了\N{\fs38}-[ Exhales deeply] -Oh, I’m glad you’re okay.
+Dialogue: 0,0:19:28.72,0:19:30.55,*Default,NTP,0,0,0,,你没事就太好了\N{\fs38}Oh, I’m glad you’re okay.
 Dialogue: 0,0:19:30.68,0:19:34.42,*Default,NTP,0,0,0,,我们一直纵容你爸爸 是不是就要一直为此付出代价\N{\fs38}Are we ever going to sTop paying for indulging your father?
 Dialogue: 0,0:19:34.56,0:19:37.26,*Default,NTP,0,0,0,,我们已经失去了孩子 地球 和工作\N{\fs38}Our children, our planet, our jobs.
 Dialogue: 0,0:19:37.39,0:19:38.88,*Default,NTP,0,0,0,,现在我们还拥有什么呢\N{\fs38}Is there anything left to lose?
@@ -500,7 +500,7 @@ Dialogue: 0,0:20:35.58,0:20:37.94,*Default,NTP,0,0,0,,哦 天啊 爸爸 别想�
 Dialogue: 0,0:20:38.08,0:20:40.79,*Default,NTP,0,0,0,,我感觉很内疚 把你想得这么坏\N{\fs38}I feel terrible that I misjudged you.
 Dialogue: 0,0:20:40.92,0:20:42.50,*Default,NTP,0,0,0,,这样对Jerry也好\N{\fs38}This is gonna be good for Jerry.
 Dialogue: 0,0:20:42.63,0:20:44.54,*Default,NTP,0,0,0,,- 对所有人都好 - 对所有人都好\N{\fs38}-For everybody. -For everybody.
-Dialogue: 0,0:20:44.67,0:20:47.75,*Default,NTP,0,0,0,,我最好去看看他\N{\fs38}-[ Celiphone whooshes] -I better tend to Jerry
+Dialogue: 0,0:20:44.67,0:20:47.75,*Default,NTP,0,0,0,,我最好去看看他\N{\fs38}I better tend to Jerry
 Dialogue: 0,0:20:47.88,0:20:50.42,*Default,NTP,0,0,0,,以免他改变主意 不想搬出去了\N{\fs38}before he changes his mind and doesn’t move out.
 Dialogue: 0,0:20:50.55,0:20:52.51,*Default,NTP,0,0,0,,就不打扰你们两个的小冒险了\N{\fs38}I will leave you two to your adventures.
 Dialogue: 0,0:20:52.64,0:20:53.42,*Default,NTP,0,0,0,,老天爷\N{\fs38}Oh, my God.
@@ -520,7 +520,7 @@ Dialogue: 0,0:21:18.54,0:21:20.86,*Default,NTP,0,0,0,,- 第一个改变 你爸�
 Dialogue: 0,0:21:21.00,0:21:22.41,*Default,NTP,0,0,0,,他威胁说要把我交给政府\N{\fs38}He threatened to turn me in to the government,
 Dialogue: 0,0:21:22.54,0:21:24.28,*Default,NTP,0,0,0,,所以我设计让他和政府都滚蛋了\N{\fs38}so I made him and the government go away.
 Dialogue: 0,0:21:24.42,0:21:25.20,*Default,NTP,0,0,0,,什么\N{\fs38}Oh, fuck.
-Dialogue: 0,0:21:25.33,0:21:28.17,*Default,NTP,0,0,0,,政府还有他现在都被我取代了\N{\fs38}I’ve rep[burps]Iaced them both as the de facto patriarch
+Dialogue: 0,0:21:25.33,0:21:28.17,*Default,NTP,0,0,0,,政府还有他现在都被我取代了\N{\fs38}I’ve replaced them both as the de facto patriarch
 Dialogue: 0,0:21:28.30,0:21:30.00,*Default,NTP,0,0,0,,现在你家和这个宇宙都是我做主\N{\fs38}of your family and your universe.
 Dialogue: 0,0:21:30.13,0:21:31.17,*Default,NTP,0,0,0,,- 如果我不带着你和你姐姐回家 - 哦天\N{\fs38}Your mom wouldn’t have accepted me
 Dialogue: 0,0:21:31.30,0:21:32.71,*Default,NTP,0,0,0,,你妈妈就不会接受我\N{\fs38}if I came home without you and your sister,
