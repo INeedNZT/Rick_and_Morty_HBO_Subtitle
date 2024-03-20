@@ -8,16 +8,6 @@ YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.77778
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Audio File: Rick.and.Morty.Season.03.Episode.05.The.Whirly.Dirly.Conspiracy.UNCENSORED.1080p.HBOMAX.WEB-DL.DD5.1.X264.GUYUTE.mp4
-Video File: Rick.and.Morty.Season.03.Episode.05.The.Whirly.Dirly.Conspiracy.UNCENSORED.1080p.HBOMAX.WEB-DL.DD5.1.X264.GUYUTE.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 517
-Active Line: 439
-Video Position: 27530
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: *Default,PingFang SC,74,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,20,1
