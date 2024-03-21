@@ -14,7 +14,7 @@ Style: *Default,PingFang SC,74,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:11:27.24,0:11:30.20,Top,,0,0,0,,"冷石"史蒂夫奥斯丁 著名摔角手及演员 性格桀骜不驯
+Dialogue: 0,0:11:26.42,0:11:29.92,Top,,0,0,0,,"冷石"史蒂夫奥斯丁 著名摔角手及演员 性格桀骜不驯
 Dialogue: 0,0:00:01.71,0:00:04.12,*Default,NTP,0,0,0,,本地新闻 孩童谋杀犯Joseph Ei Lipnip\N{\fs38}NEWS ANCHOR: In local news,child murderer Joseph Eli Lipnip
 Dialogue: 0,0:00:04.26,0:00:06.04,*Default,NTP,0,0,0,,将在明天实行注射死刑\N{\fs38}is scheduled to die tomorrow by lethal injection,
 Dialogue: 0,0:00:06.17,0:00:08.67,*Default,NTP,0,0,0,,这次行刑引起的关注远超\N{\fs38}his execution already drawing dozens more spectators
