@@ -14,8 +14,6 @@ Style: *Default,PingFang SC,74,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:05.33,0:01:09.41,Top,,0,0,0,,<In the City> - Eagles
-Dialogue: 0,0:20:48.34,0:20:51.47,Top,,0,0,0,,<For the Damaged Coda> - Blonde Redhead
 Dialogue: 0,0:00:01.59,0:00:04.22,*Default,NTP,0,0,0,,好嘞Morty 准备好去失落之城亚特兰蒂斯探险了吗\N{\fs38}All right, Morty, you ready for our adventure to the Lost City of Atlantis?
 Dialogue: 0,0:00:04.34,0:00:05.58,*Default,NTP,0,0,0,,时刻准备着 Rick\N{\fs38}Ready as I'll ever be, Rick.
 Dialogue: 0,0:00:05.72,0:00:07.55,*Default,NTP,0,0,0,,我真是操了\N{\fs38}Oh, for fuck’s sake.
